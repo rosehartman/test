@@ -1,0 +1,3911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" packageId="edi.264.1" system="edi" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1  http://nis.lternet.edu/schemas/EML/eml-2.1.1/eml.xsd">
+  <access scope="document" order="allowFirst" authSystem="https://pasta.edirepository.org/authentication">
+    <allow>
+      <principal>uid=iep,o=EDI,dc=edirepository,dc=org</principal>
+      <permission>all</permission>
+    </allow>
+    <allow>
+      <principal>public</principal>
+      <permission>read</permission>
+    </allow>
+  </access>
+  <dataset>
+    <title>Fish catch, invertebrate catch, and water quality data from the Sacramento-San Joaquin Delta collected by the Fish Restoration Monitoring Program, 2015-2017.</title>
+    <creator>
+      <individualName>
+        <surName>California Department of Fish and Wildlife</surName>
+      </individualName>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Rosemary</givenName>
+        <surName>Hartman</surName>
+      </individualName>
+      <organizationName>California Department of Fish and Wildlife</organizationName>
+      <electronicMailAddress>Rosemary.Hartman@wildlife.ca.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0002-0642-183X</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Stacy</givenName>
+        <surName>Sherman</surName>
+      </individualName>
+      <organizationName>California Department of Fish and Wildlife</organizationName>
+      <electronicMailAddress>Stacy.Sherman@wildlife.ca.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0002-8392-7287</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Dave</givenName>
+        <surName>Contreras</surName>
+      </individualName>
+      <organizationName>California Department of Fish and Wildlife</organizationName>
+      <electronicMailAddress>Dave.Contreras@wildlife.ca.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0002-8692-3185</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Daniel</givenName>
+        <surName>Ellis</surName>
+      </individualName>
+      <organizationName>California Department of Fish and Wildlife</organizationName>
+      <electronicMailAddress>Daniel.Ellis@wildlife.ca.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0002-5900-2962</userId>
+    </creator>
+    <associatedParty>
+      <individualName>
+        <surName>Interagency Ecological Program</surName>
+      </individualName>
+      <electronicMailAddress>iep@wildlife.ca.gov</electronicMailAddress>
+      <role>Associate</role>
+    </associatedParty>
+    <associatedParty>
+      <individualName>
+        <givenName>Ryan</givenName>
+        <surName>Kok</surName>
+      </individualName>
+      <organizationName>California Department of Fish and Wildlife</organizationName>
+      <electronicMailAddress>Ryan.Kok@wildlife.ca.gov</electronicMailAddress>
+      <role>Associate</role>
+    </associatedParty>
+    <pubDate>2018-12-13</pubDate>
+    <abstract>
+      <para>
+  The Fish Restoration Program Monitoring Team is tasked with monitoring
+  fish and food web resources in restored tidal wetland sites. These
+  restored sites are located in the Sacramento-San Joaquin Delta and
+  Suisun Marsh pursuant to requirements in the 2008/2009 Biological
+  Opinions for state and federal water project operations. Data on fish
+  and invertebrate abundance on or near these sites was collected as
+  baseline monitoring data and to determine the most efficient methods
+  for monitoring wetlands. Understanding how invertebrate and fish
+  communities change pre- to post-restoration is essential to evaluating
+  the benefits of tidal wetlands to native fish species. Invertebrate
+  data was collected using sweep nets, benthic cores, neuston nets, and
+  zooplankton trawls. Fish data was collected using a lampara net and
+  beach seine. For each method, the team recorded the catch of fish or
+  invertebrates, length of organisms, and a suite of environmental
+  information, including: dissolved oxygen, temperature, pH, specific
+  conductance, and turbidity.
+</para>
+    </abstract>
+    <keywordSet>
+      <keyword>restoration</keyword>
+      <keyword>fish</keyword>
+      <keyword>aquatic invertebrates</keyword>
+      <keyword>zooplankton</keyword>
+      <keyword>wetland</keyword>
+      <keyword>water quality</keyword>
+      <keyword>estuary</keyword>
+      <keyword>freshwater</keyword>
+      <keyword>brackish water</keyword>
+      <keyword>monitoring</keyword>
+      <keyword>ecology</keyword>
+      <keyword>aquatic ecosystems</keyword>
+      <keywordThesaurus>LTER Controlled Vocabulary</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>Interagency Ecological Program for the San Francisco Bay Delta Estuary</keyword>
+      <keyword>IEP</keyword>
+      <keyword>California Department of Fish and Wildlife</keyword>
+      <keyword>CDFW</keyword>
+    </keywordSet>
+    <intellectualRights>
+      <para>
+  This information is released under the Creative Commons license -
+  Attribution - CC BY (https://creativecommons.org/licenses/by/4.0/).
+  The consumer of these data ("Data User" herein) is required
+  to cite it appropriately in any publication that results from its use.
+  The Data User should realize that these data may be actively used by
+  others for ongoing research and that coordination may be necessary to
+  prevent duplicate publication. The Data User is urged to contact the
+  authors of these data if any questions about methodology or results
+  occur. Where appropriate, the Data User is encouraged to consider
+  collaboration or co-authorship with the authors. The Data User should
+  realize that misinterpretation of data may occur if used out of
+  context of the original study. While substantial efforts are made to
+  ensure the accuracy of data and associated documentation, complete
+  accuracy of data sets cannot be guaranteed. All data are made
+  available "as is." The Data User should be aware, however,
+  that data are updated periodically and it is the responsibility of the
+  Data User to check for new versions of the data. The data authors and
+  the repository where these data were obtained shall not be liable for
+  damages resulting from any use or misinterpretation of the data. Thank
+  you.
+</para>
+    </intellectualRights>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>Suisun Marsh, Grizzly Bay, and the Sacramento-San Joaquin Delta, California, USA</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-122.017140</westBoundingCoordinate>
+          <eastBoundingCoordinate>-121.586290</eastBoundingCoordinate>
+          <northBoundingCoordinate>38.351790</northBoundingCoordinate>
+          <southBoundingCoordinate>38.021500</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>2015-01-01</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2017-12-30</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+    </coverage>
+    <maintenance>
+      <description>ongoing</description>
+    </maintenance>
+    <contact>
+      <individualName>
+        <givenName>Rosemary</givenName>
+        <surName>Hartman</surName>
+      </individualName>
+      <organizationName>California Department of Fish and Wildlife</organizationName>
+      <electronicMailAddress>Rosemary.Hartman@wildlife.ca.gov</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0002-0642-183X</userId>
+    </contact>
+    <methods>
+      <methodStep>
+        <description>
+          <para>
+  All sampling methods used to collect this data are consistent with the
+  standard operating procedures developed by the IEP Tidal Wetlands
+  Monitoring Project Workteam. The SOPs are available online:
+  http://nrm.dfg.ca.gov/FileHandler.ashx?DocumentID=160451 . For more
+  detailed information on project background, sampling design, and
+  analysis, see FRP annual reports: Contreras, D., R. Hartman, S.
+  Sherman, A. Furler, and A. Low. 2016. Pilot study phase I: Results
+  from 2015 gear methodology trials in the North Delta. California
+  Department of FIsh and Wildlife, Fish Restoration Program, Stockton,
+  CA.
+</para>
+          <para>
+  Contreras, D., R. Hartman, and S. Sherman. 2017. Pilot Study Phase II:
+  Results from 2016 gear evaluation in the North Delta. California
+  Department of Fish and Wildlife, Fish Restoration Program, Stockton,
+  CA.
+  http://www.water.ca.gov/environmentalservices/docs/frpa/pilot_phase_II_report_FINAL_3MAY2017.pdf.
+  Contreras, D., R. Hartman, and S. Sherman. 2018. Sampling fish and
+  invertebrate resources in tidal wetlands of the Sacramento-San Joaquin
+  Delta: Report on Phase III Pilot Monitoring, 2017. California
+  Department of Fish and Wildlife, Stockton, CA.
+</para>
+          <para>
+  Environmental Parameters: Water quality (pH, DO, temperature,
+  conductivity, and turbidity) was collected for each fish or
+  invertebrate sample using a YSI 6600 or YSI Proplus and portable
+  turbidity meter. Other environmental observations, including tidal
+  stage, water depth, weather, wind speed, and habitat type were also
+  collected (see Environmental Data table for gear specifications).
+</para>
+          <para>
+  FISH FRP sampled fish in shallow water habitat near planned tidal
+  wetland projects. Sampling occurred concurrently with the UC Davis Arc
+  Survey and US Fish and Wildlife Service (USFWS) Liberty Island Survey
+  in 2015-2016. Sampling occurred concurrently with mid-channel sampling
+  by the IEP Summer Townet (STN) and Fall Midwater Trawl (FMWT) surveys,
+  June-December, 2017. Based on the STN and FMWT sampling schedule,
+  sites were surveyed twice a month from June-August and once a month
+  from September-December. Sampling sites were typically void of
+  vegetation and composed of sand and mud substrate mixtures. In 2015
+  and 2016, lampara nets were deployed concurrently with USFWS and UC
+  Davis once per month. In 2017, Beach seines and lampara nets were
+  deployed concurrently with the STN during the summer (June-August) and
+  with FMWT during the fall (September-December).
+</para>
+          <para>
+  Before sampling began, the crew scouted all the tidal wetland
+  restoration locations for areas where a beach seine could be deployed.
+  These recurring sites were recorded as waypoints and repeatedly
+  sampled throughout the study. In addition, two lampara sites were
+  fixed in a side channel off Miner Slough because this will be the
+  location of the southern breach of Prospect Island when it is restored
+  as a tidal wetland. All other lampara sampling sites were randomly
+  selected using the sampling design tool in ArcMap (ESRI Inc. Redlands,
+  CA).
+</para>
+          <para>
+  Beach Seine: The beach seine is a shallow water gear type that is
+  deployed from shore by crewmembers. It measures 15 m long x 1.2 m high
+  and is composed of 3.2 mm delta square mesh. One crewmember walked
+  perpendicular from shore into the water holding one end of the net
+  until a depth appropriate for proper seining was reached. A second
+  crewmember followed the path of the first crewmember to minimize site
+  disturbance and positioned their seine pole upon reaching the first
+  crewmember. The first crewmember then turned parallel with the shore
+  and continued walking until the seine was fully opened. Water depth
+  and seine lengths were recorded before both crewmembers pulled the
+  seine towards the beach at a similar speed until only the cod end bag
+  remained in the water. The crew filled a tub with water and placed the
+  cod end in the tub along with any fish caught in the wings of the
+  seine.
+</para>
+          <para>
+  Lampara Net: The lampara net is a tapered net measuring 36.5 m long x
+  3.7 m high. The cod end is composed of 9.5 mm stretch mesh and
+  connects to two wings composed of variable stretched mesh (69.9,
+  146.1, and 88.9 mm). This net was deployed in shallow and channel
+  habitat from a boat where the tip of the wing was tossed into the
+  water attached to a buoy and sea anchor. Crewmembers deployed the net
+  from the bow of the boat as the boat moved in a circular fashion back
+  to the buoy and sea anchor. One crewmember then brought the buoy and
+  sea anchor onboard and hooked both ends of the net onto the front
+  cleat. The boat then went backwards and caused the net to impinge on
+  itself to prevent fish from escaping through the bottom of the net.
+  Once the net was "folded in half", each crewmember grabbed
+  one side of the net and brought it onboard. Once the cod end was
+  reached, it was placed in a tub filled with water.
+</para>
+          <para>
+  Fish Processing: All fish in the sample are identified to species.
+  Fish length is measured to the nearest mm (fork or total length, as
+  applicable), for the first 30 individuals of each species. All
+  additional individuals are counted, but not measured.
+</para>
+          <para>
+  Invertebrates: We sampled at restoration sites, existing wetlands, and
+  adjacent open-water areas across the Delta and Suisun Marsh to
+  incorporate varying salinity and surrounding land use. We sampled most
+  sites intensely during a single spring sampling event in late March
+  and early April, 2017 (4-10 samples per habitat type, depending on
+  wetland size), with less intense sampling monthly March-June, 2017.
+  FRP Zooplankton Nets: The macrozooplankton net (or "mysid
+  net") is a 0.4 m x 0.4 m mouth (500 microns mesh size) net that
+  was attached to a steel sled and pulled obliquely through the water
+  column for five minutes. Mesozooplankton were sampled with a 14.6 cm
+  diameter (150 microns mesh size) zooplankton net attached to the
+  macrozooplankton net frame (similar to EMP methods, Hennessy 2009). A
+  flowmeter was mounted in each net to measure sample volume. If the
+  tidal channels or accessible near-shore habitat were too short to take
+  a full five-minute tow, the tow time was reduced. In some cases, gear
+  was held in the mouth of a tidal channel to sample water flowing out
+  of the channel on an ebb tide instead of being trawled. After
+  retrieval, the nets were rinsed from the outside to wash down the
+  sample into the cod end. All content collected in a cod end was
+  preserved in 70% ethanol for later identification.
+</para>
+          <para>
+  Vegetated habitats: We used a 25 cm x 30 cm d-frame net with 500
+  microns mesh for all sweep net samples. We haphazardly choose 4-10
+  sampling locations per site and conducted sweep nets in vegetation
+  types roughly proportional to their coverage of the site. We adapted
+  the sweep net technique slightly for different habitat types. Emergent
+  Aquatic Vegetation (EAV): Five 1 m sweeps, scraping the vegetation as
+  much as possible to knock invertebrates off the stems. All samples
+  were taken within 1 m of the edge, since vegetation was less dense and
+  easier to sample. This is also the area where salmonids have been
+  shown to forage most effectively (Simenstad and Cordell 2000). Samples
+  were taken in whichever species was dominant at the site, usually
+  Schoenoplectus acutus, Schoenoplectus californicus, or Phragmites
+  australis.
+</para>
+          <para>
+  Submerged Aquatic Vegetation (SAV): Five 1 m sweeps through the
+  thickest growth, collecting vegetation remaining within the frame of
+  the net at the end of the sweep. In the laboratory, vegetation was
+  dried to a constant weight. Samples were taken in whichever species of
+  vegetation was dominant, most frequently Egeria densa, with some
+  samples in Ceratophyllum demersum and Stuckenia pectinata.
+</para>
+          <para>
+  Floating Aquatic Vegetation (FAV): The net was lifted from beneath a
+  clump of FAV. Plant material outside of the net frame, and any leaves
+  above the surface of the water, were severed from the sample with
+  shears (similar to Donley Marineau et al. 2017). In the laboratory,
+  the roots were dried to a constant weight. Samples were taken in
+  whichever species of FAV was dominant, most frequently Eichhornia
+  crassipes, with some samples in Ludwigia spp. and Azolla spp.
+</para>
+          <para>
+  EAV sample catch per unit efforts (CPUE) were calculated as number of
+  invertebrates per sample (five sweeps). CPUEs for SAV and FAV samples
+  were calculated as number of invertebrates per gram of dried
+  vegetation.
+</para>
+          <para>
+  Our open water sampling patches were haphazardly distributed across
+  all unvegetated open water and channels &gt; 1.5 m across. We combined
+  open-water sampling with fish sampling where possible to reduce
+  disturbance and increase efficiency. Methods used in open-water have a
+  long history of use in monitoring in the Delta, and allowed us to
+  compare our measurements in vegetated wetlands to conditions in
+  channels and make comparisons to long-term data sets. Methods
+  included: zooplankton tow, mysid (macrozooplankton) tow, neuston tow,
+  and benthic cores/ponar grabs.
+</para>
+          <para>
+  Zooplankton and Mysid tows: The macrozooplankton net (or “mysid net”)
+  is a 0.4 m x 0.4 m mouth (500 micron mesh size) net that was attached
+  to a steel sled and pulled obliquely through the water column for five
+  minutes. Mesozooplankton were sampled with a 14.6 cm diameter (150
+  micron mesh size) zooplankton net attached to the macrozooplankton net
+  frame (similar to EMP methods, Hennessy 2009). A flowmeter was mounted
+  in each net to measure sample volume, and effort was standardized by
+  catch per cubic meter of water sampled. If the tidal channels or
+  accessible near-shore habitat were too short to take a full
+  five-minute tow, the tow time was reduced. In some cases, gear was
+  held in the mouth of a tidal channel to sample water flowing out of
+  the channel on an ebb tide instead of being trawled. After retrieval,
+  the nets were rinsed from the outside to wash down the sample into the
+  cod end. All content collected in a cod end was preserved in 70%
+  ethanol for later identification.
+</para>
+          <para>
+  Benthic core: Benthic cores have been used extensively to quantify
+  chironomid and amphipod populations, as well as bivalves and other
+  infauna in tidal wetlands (Howe et al. 2014; Wells 2015). We had some
+  difficulty predicting appropriate tidal stage for sampling at some of
+  the sites, so sample size was small and unbalanced. Sampling during
+  the 2018 work plan was more evenly distributed. In shallow water (&lt;
+  1.5 m), we took a 4 in (20 cm) diameter benthic core, hand-deployed to
+  a depth of 20 cm. In deep water &gt; 1.5 m, we used a 9 x 9 in ponar
+  grab modified for use in hard substrates (as per USFWS Liberty Island
+  Monitoring, L. Smith pers. comm), with three samples at each site. The
+  core was washed and sieved on board the boat to remove the sand/mud
+  and preserve any organic detritus and invertebrates. Two crew members
+  estimated % silt, sand, and gravel in the field, and averaged the
+  values. Effort was calculated as catch per surface area of substrate
+  sampled. Neuston tow: Emerging insects and Collembola found at the
+  surface of the water are an important feature in salmonid diets, and
+  are commonly sampled using neuston tows and drift nets (Sommer et al.
+  2001, Howe et al. 2014). The neuston net is a 45 cm x 30 cm
+  rectangular net, 1 m long with 500 _m mesh towed half-way out of the
+  water to sample invertebrates on the surface of the water. We towed
+  the neuston net at the surface of the water from the side of the boat
+  via a boat-hook. In narrow channels, we pulled the net along the edge
+  of emergent vegetation by hand (as in Howe et al. 2014). We
+  standardized effort by the distance of the tow calculated by GPS track
+  multiplied by width of net to calculate surface area of water sampled.
+  After retrieval, all content collected in a cod end was preserved in
+  70% ethanol for later ID.
+</para>
+          <para>
+  Invertebrate sample sorting will be double-checked to ensure all
+  invertebrates are extracted from detritus. One in five samples will be
+  checked for identification accuracy in house, by qualified laboratory
+  personnel in what is called an "internal" identification
+  check. One in twenty samples will be sent to another laboratory for an
+  "external" identification check. New staff members will have
+  additional quality checks until their identification skills have been
+  verified.
+</para>
+          <para>
+  All instruments will have periodic calibrations and maintenance as per
+  manufacturer's instructions.
+</para>
+          <para>
+  When transcribing data, one staff member enters the data from the data
+  sheets to the main database as soon as possible after collection, but
+  no more than one week after collection. After data entry, a second
+  staff member checks the data entry for accuracy and corrects any
+  mistakes. Data are then plotted to check for outliers that may
+  indicate mistakes in data collection, transcription, or instrument
+  calibration. Outliers are dealt with on a case-by-case basis.
+</para>
+          <para>
+  Methods references: IEP Tidal Wetland Monitoring Project Work Team
+  (PWT). 2017. Tidal wetland monitoring framework for the upper San
+  Francisco Estuary: Standard Operating Procedures.
+  https://www.water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Environmental-Services/Interagency-Ecological-Program/Files/Standard-Operating-Procedures.pdf?la=en&amp;hash=0692951CEC5D0C897C53120475421A79C7ED648D.
+</para>
+          <para>
+  Donley Marineau, E., M. J. Perryman, J. Hernandez, and S. Lawler.
+  2017. Are there non-target impacts of invasive water hyacinth
+  management for aquatic invertebrate communities in the Sacramento-San
+  Joaquin River Delta? Ch. 3 in Aquatic Invertebrate Dynamics in Two
+  Systems of Concervation Concern. University of California, Davis,
+  Davis, CA.
+</para>
+          <para>
+  Hennessy, A. 2009. Zooplankton Meta Data. IEP Bay-Delta Monitoring and
+  Analysis Section, Department of Water Resources, Sacramento, CA.
+</para>
+          <para>
+  Howe, E. R., C. A. Simenstad, J. D. Toft, J. R. Cordell, and S. M.
+  Bollens. 2014. Macroinvertebrate prey availability and fish diet
+  selectivity in relation to environmental variables in natural and
+  restoring North San Francisco Bay tidal marsh channels. San Francisco
+  Estuary and Watershed Science 12(1).
+  http://www.escholarship.org/uc/item/0p01q99s.
+</para>
+          <para>
+  Simenstad, C. A., and J. R. Cordell. 2000. Ecological assessment
+  criteria for restoring anadromous salmonid habitat in Pacific
+  Northwest estuaries. Ecological Engineering 15(3-4):283-302.
+  http://www.sciencedirect.com/science/article/pii/S0925857400000823.
+</para>
+          <para>
+  Wells, E. 2015. IEP Environmental Monitoring Program Benthos Metadata.
+  C. D. o. W. Resources, editor. Division of Environmental Services,
+  Bay-Delta Monitoring and Analysis Section, West Sacramento, CA.
+  http://www.water.ca.gov/bdma/meta/benthic.cfm.
+</para>
+        </description>
+      </methodStep>
+      <sampling>
+        <studyExtent>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>501 FRP</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>122.01588</westBoundingCoordinate>
+                <eastBoundingCoordinate>122.01588</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.07447</northBoundingCoordinate>
+                <southBoundingCoordinate>38.07447</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>520 FRP</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.87193</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.87193</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.04482</northBoundingCoordinate>
+                <southBoundingCoordinate>38.04482</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>602FRP</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>122.0067224</westBoundingCoordinate>
+                <eastBoundingCoordinate>122.0067224</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.12129217</northBoundingCoordinate>
+                <southBoundingCoordinate>38.12129217</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>609 FRP</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.9139374</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.9139374</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.18178043</northBoundingCoordinate>
+                <southBoundingCoordinate>38.18178043</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>703 FRP</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7992028</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7992028</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.0430953</northBoundingCoordinate>
+                <southBoundingCoordinate>38.0430953</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>705 FRP</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7090585</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7090585</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.08988506</northBoundingCoordinate>
+                <southBoundingCoordinate>38.08988506</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>706 FRP</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.72507</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.72507</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.08294</northBoundingCoordinate>
+                <southBoundingCoordinate>38.08294</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>720 FRP</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7926</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7926</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.25995</northBoundingCoordinate>
+                <southBoundingCoordinate>38.25995</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>723 FRP</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.68453</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.68453</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.24355</northBoundingCoordinate>
+                <southBoundingCoordinate>38.24355</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>724 FRP</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6618801</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6618801</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.24246447</northBoundingCoordinate>
+                <southBoundingCoordinate>38.24246447</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>726 FRP</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.653526</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.653526</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.25811292</northBoundingCoordinate>
+                <southBoundingCoordinate>38.25811292</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>801 FRP</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.8444517</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.8444517</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.04218957</northBoundingCoordinate>
+                <southBoundingCoordinate>38.04218957</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Barker rip rap</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.78379</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.78379</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.26531</northBoundingCoordinate>
+                <southBoundingCoordinate>38.26531</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>BK1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7898314</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7898314</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.26781949</northBoundingCoordinate>
+                <southBoundingCoordinate>38.26781949</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>BK2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7803662</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7803662</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.26321378</northBoundingCoordinate>
+                <southBoundingCoordinate>38.26321378</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Blacklock</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.90878</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.90878</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.18031</northBoundingCoordinate>
+                <southBoundingCoordinate>38.18031</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Bradmoor</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.92172</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.92172</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.18248</northBoundingCoordinate>
+                <southBoundingCoordinate>38.18248</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>BROISL</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.85761</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.85761</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.039</northBoundingCoordinate>
+                <southBoundingCoordinate>38.039</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Browns Channel</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.8675863</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.8675863</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.04050271</northBoundingCoordinate>
+                <southBoundingCoordinate>38.04050271</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Browns1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.8577899</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.8577899</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.03813016</northBoundingCoordinate>
+                <southBoundingCoordinate>38.03813016</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>CA3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.72101</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.72101</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.28601</northBoundingCoordinate>
+                <southBoundingCoordinate>38.28601</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>CC1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7811813</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7811813</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.26030111</northBoundingCoordinate>
+                <southBoundingCoordinate>38.26030111</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>CC2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7906483</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7906483</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.25995987</northBoundingCoordinate>
+                <southBoundingCoordinate>38.25995987</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Decker Breach</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.723387</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.723387</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.08360788</northBoundingCoordinate>
+                <southBoundingCoordinate>38.08360788</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Decker BS1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.710669</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.710669</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.10404278</northBoundingCoordinate>
+                <southBoundingCoordinate>38.10404278</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Decker BS2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7090939</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7090939</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.09872661</northBoundingCoordinate>
+                <southBoundingCoordinate>38.09872661</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Decker BS3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7092772</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7092772</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.09689579</northBoundingCoordinate>
+                <southBoundingCoordinate>38.09689579</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Decker Inside</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.72336</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.72336</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.08512</northBoundingCoordinate>
+                <southBoundingCoordinate>38.08512</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Dow 2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.8333619</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.8333619</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.02324421</northBoundingCoordinate>
+                <southBoundingCoordinate>38.02324421</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Dow 3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.8253262</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.8253262</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.02191299</northBoundingCoordinate>
+                <southBoundingCoordinate>38.02191299</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Dow 4</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.8294301</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.8294301</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.02278941</northBoundingCoordinate>
+                <southBoundingCoordinate>38.02278941</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Dow 5</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.8336971</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.8336971</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.02188756</northBoundingCoordinate>
+                <southBoundingCoordinate>38.02188756</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Dow Breach</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.8272565</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.8272565</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.02375735</northBoundingCoordinate>
+                <southBoundingCoordinate>38.02375735</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Dow Outside</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.82609</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.82609</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.024821</northBoundingCoordinate>
+                <southBoundingCoordinate>38.024821</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Fallouts1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.68886</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.68886</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.29586</northBoundingCoordinate>
+                <southBoundingCoordinate>38.29586</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Fallouts2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.686518</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.686518</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.296002</northBoundingCoordinate>
+                <southBoundingCoordinate>38.296002</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Flyway</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6444767</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6444767</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.36414</northBoundingCoordinate>
+                <southBoundingCoordinate>38.36414</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Headreach</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.47833</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.47833</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.03228</northBoundingCoordinate>
+                <southBoundingCoordinate>38.03228</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Horsebend1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7280776</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7280776</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.08258782</northBoundingCoordinate>
+                <southBoundingCoordinate>38.08258782</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Horsebend2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7146892</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7146892</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.08403422</northBoundingCoordinate>
+                <southBoundingCoordinate>38.08403422</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>HorseBend3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7079337</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7079337</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.09929728</northBoundingCoordinate>
+                <southBoundingCoordinate>38.09929728</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>HS2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7312177</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7312177</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.30367327</northBoundingCoordinate>
+                <southBoundingCoordinate>38.30367327</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>HS3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7105386</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7105386</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.27772992</northBoundingCoordinate>
+                <southBoundingCoordinate>38.27772992</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI001E</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.68239</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.68239</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.24204</northBoundingCoordinate>
+                <southBoundingCoordinate>38.24204</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI001W</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.69406</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.69406</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.27719</northBoundingCoordinate>
+                <southBoundingCoordinate>38.27719</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI002E</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.678139</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.678139</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.246362</northBoundingCoordinate>
+                <southBoundingCoordinate>38.246362</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI002W</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.691395</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.691395</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.269292</northBoundingCoordinate>
+                <southBoundingCoordinate>38.269292</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI003E</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.672072</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.672072</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.255043</northBoundingCoordinate>
+                <southBoundingCoordinate>38.255043</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI003W</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.690273</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.690273</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.257888</northBoundingCoordinate>
+                <southBoundingCoordinate>38.257888</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI004E</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.671557</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.671557</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.26514</northBoundingCoordinate>
+                <southBoundingCoordinate>38.26514</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI004W</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.686263</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.686263</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.25268</northBoundingCoordinate>
+                <southBoundingCoordinate>38.25268</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI005E</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.66693</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.66693</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.273775</northBoundingCoordinate>
+                <southBoundingCoordinate>38.273775</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI005W</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.686421</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.686421</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.244607</northBoundingCoordinate>
+                <southBoundingCoordinate>38.244607</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI006W</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.69229</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.69229</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.28232</northBoundingCoordinate>
+                <southBoundingCoordinate>38.28232</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI007E</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.66532</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.66532</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.28417</northBoundingCoordinate>
+                <southBoundingCoordinate>38.28417</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI008E</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.66651</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.66651</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.28899</northBoundingCoordinate>
+                <southBoundingCoordinate>38.28899</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LI008W</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.69197</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.69197</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.28759</northBoundingCoordinate>
+                <southBoundingCoordinate>38.28759</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Liberty FAV</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.69193</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.69193</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.29607</northBoundingCoordinate>
+                <southBoundingCoordinate>38.29607</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Liberty rip rap</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.69402</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.69402</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.2785</northBoundingCoordinate>
+                <southBoundingCoordinate>38.2785</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Liberty SAV</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6918</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6918</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.29003</northBoundingCoordinate>
+                <southBoundingCoordinate>38.29003</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Liberty tules</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.68986</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.68986</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.29617</northBoundingCoordinate>
+                <southBoundingCoordinate>38.29617</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Liberty1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.67718</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.67718</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.26962</northBoundingCoordinate>
+                <southBoundingCoordinate>38.26962</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Liberty2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.67599</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.67599</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.27565</northBoundingCoordinate>
+                <southBoundingCoordinate>38.27565</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Liberty3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.67701</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.67701</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.24967</northBoundingCoordinate>
+                <southBoundingCoordinate>38.24967</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Liberty4</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.67861</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.67861</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.24771</northBoundingCoordinate>
+                <southBoundingCoordinate>38.24771</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Liberty5</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.67883</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.67883</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.26238</northBoundingCoordinate>
+                <southBoundingCoordinate>38.26238</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Liberty6</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6879</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6879</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.26704</northBoundingCoordinate>
+                <southBoundingCoordinate>38.26704</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LinBR</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7925665</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7925665</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.25866311</northBoundingCoordinate>
+                <southBoundingCoordinate>38.25866311</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Lindsey FAV</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7975475</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7975475</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.25951823</northBoundingCoordinate>
+                <southBoundingCoordinate>38.25951823</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Lindsey SAV</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7923</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7923</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.25978</northBoundingCoordinate>
+                <southBoundingCoordinate>38.25978</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Lindsey tules</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.79259</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.79259</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.25902</northBoundingCoordinate>
+                <southBoundingCoordinate>38.25902</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LN1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.7616752</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.7616752</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.26026903</northBoundingCoordinate>
+                <southBoundingCoordinate>38.26026903</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LN2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.738121</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.738121</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.25814901</northBoundingCoordinate>
+                <southBoundingCoordinate>38.25814901</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>LN3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.713593</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.713593</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.24998083</northBoundingCoordinate>
+                <southBoundingCoordinate>38.24998083</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Miner rip rap</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.66168</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.66168</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.24232</northBoundingCoordinate>
+                <southBoundingCoordinate>38.24232</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Miner SAV</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6527</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6527</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.25687</northBoundingCoordinate>
+                <southBoundingCoordinate>38.25687</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Miner Tules</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6691908</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6691908</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.23414087</northBoundingCoordinate>
+                <southBoundingCoordinate>38.23414087</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>MinSlo1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6595325</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6595325</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.24640849</northBoundingCoordinate>
+                <southBoundingCoordinate>38.24640849</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>MinSlo2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6470267</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6470267</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.26363244</northBoundingCoordinate>
+                <southBoundingCoordinate>38.26363244</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>MinSlo3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6415524</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6415524</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.27997313</northBoundingCoordinate>
+                <southBoundingCoordinate>38.27997313</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>NELiberty</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6732488</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6732488</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.29183335</northBoundingCoordinate>
+                <southBoundingCoordinate>38.29183335</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Nurse1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.9265354</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.9265354</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.19274121</northBoundingCoordinate>
+                <southBoundingCoordinate>38.19274121</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>NWLiberty</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6861237</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6861237</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.29307247</northBoundingCoordinate>
+                <southBoundingCoordinate>38.29307247</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>ProBr</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6636248</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6636248</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.24394144</northBoundingCoordinate>
+                <southBoundingCoordinate>38.24394144</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>ProSlough</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6671414</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6671414</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.31306549</northBoundingCoordinate>
+                <southBoundingCoordinate>38.31306549</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Rep 1 channel</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.72399</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.72399</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.08183</northBoundingCoordinate>
+                <southBoundingCoordinate>38.08183</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Rep 1 Wetland</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.72206</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.72206</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.08307</northBoundingCoordinate>
+                <southBoundingCoordinate>38.08307</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Rep 2 channel</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.70901</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.70901</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.08558</northBoundingCoordinate>
+                <southBoundingCoordinate>38.08558</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Rep 2 wetland</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.71127</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.71127</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.08766</northBoundingCoordinate>
+                <southBoundingCoordinate>38.08766</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Rep 3 channel</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.70862</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.70862</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.10013</northBoundingCoordinate>
+                <southBoundingCoordinate>38.10013</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Rep 3 Wetland</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.70925</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.70925</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.10054</northBoundingCoordinate>
+                <southBoundingCoordinate>38.10054</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>RYEISL</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>122.01718</westBoundingCoordinate>
+                <eastBoundingCoordinate>122.01718</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.08098</northBoundingCoordinate>
+                <southBoundingCoordinate>38.08098</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Ryer1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>122.018814</westBoundingCoordinate>
+                <eastBoundingCoordinate>122.018814</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.08547775</northBoundingCoordinate>
+                <southBoundingCoordinate>38.08547775</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Ryer2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>122.0083422</westBoundingCoordinate>
+                <eastBoundingCoordinate>122.0083422</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.08322056</northBoundingCoordinate>
+                <southBoundingCoordinate>38.08322056</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Ryer3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>122.0136547</westBoundingCoordinate>
+                <eastBoundingCoordinate>122.0136547</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.07724609</northBoundingCoordinate>
+                <southBoundingCoordinate>38.07724609</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Ryer4</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>122.0034729</westBoundingCoordinate>
+                <eastBoundingCoordinate>122.0034729</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.07781685</northBoundingCoordinate>
+                <southBoundingCoordinate>38.07781685</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SELiberty</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.677316</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.677316</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.25910821</northBoundingCoordinate>
+                <southBoundingCoordinate>38.25910821</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Shag SAV/FAV</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.69346</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.69346</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.27997</northBoundingCoordinate>
+                <southBoundingCoordinate>38.27997</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>shag1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6928649</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6928649</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.3098208</northBoundingCoordinate>
+                <southBoundingCoordinate>38.3098208</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Shag2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6934933</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6934933</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.27849914</northBoundingCoordinate>
+                <southBoundingCoordinate>38.27849914</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SJ1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.47817</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.47817</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.03217</northBoundingCoordinate>
+                <southBoundingCoordinate>38.03217</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SJ2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.47786</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.47786</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.03201</northBoundingCoordinate>
+                <southBoundingCoordinate>38.03201</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SJ3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.45679</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.45679</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.00916</northBoundingCoordinate>
+                <southBoundingCoordinate>38.00916</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SJ4</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>21.4561</westBoundingCoordinate>
+                <eastBoundingCoordinate>21.4561</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.00804</northBoundingCoordinate>
+                <southBoundingCoordinate>38.00804</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SJ5</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.45036</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.45036</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.00391</northBoundingCoordinate>
+                <southBoundingCoordinate>38.00391</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SJ6</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.45008</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.45008</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.00345</northBoundingCoordinate>
+                <southBoundingCoordinate>38.00345</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SJ7</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.44746</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.44746</eastBoundingCoordinate>
+                <northBoundingCoordinate>37.99771</northBoundingCoordinate>
+                <southBoundingCoordinate>37.99771</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SJ8</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.44749</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.44749</eastBoundingCoordinate>
+                <northBoundingCoordinate>37.99752</northBoundingCoordinate>
+                <southBoundingCoordinate>37.99752</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SoPro1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6637237</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6637237</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.24924019</northBoundingCoordinate>
+                <southBoundingCoordinate>38.24924019</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SoPro2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.66946</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.66946</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.24498926</northBoundingCoordinate>
+                <southBoundingCoordinate>38.24498926</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SoPro3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6687814</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6687814</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.23894736</northBoundingCoordinate>
+                <southBoundingCoordinate>38.23894736</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SoPro4</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6603186</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6603186</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.25147542</northBoundingCoordinate>
+                <southBoundingCoordinate>38.25147542</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SoPro5</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.66946</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.66946</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.24192</northBoundingCoordinate>
+                <southBoundingCoordinate>38.24192</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SoPro6</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6692</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6692</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.23722</northBoundingCoordinate>
+                <southBoundingCoordinate>38.23722</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SoPro7</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6604141</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6604141</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.24526063</northBoundingCoordinate>
+                <southBoundingCoordinate>38.24526063</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Stacy's Island</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.59039</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.59039</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.0947</northBoundingCoordinate>
+                <southBoundingCoordinate>38.0947</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Stairsteps1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6830292</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6830292</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.32666076</northBoundingCoordinate>
+                <southBoundingCoordinate>38.32666076</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Stairsteps2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6739171</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6739171</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.33389898</northBoundingCoordinate>
+                <southBoundingCoordinate>38.33389898</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Stairsteps3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6554718</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6554718</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.34445786</northBoundingCoordinate>
+                <southBoundingCoordinate>38.34445786</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>substrates1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.68925</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.68925</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.29976</northBoundingCoordinate>
+                <southBoundingCoordinate>38.29976</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>substrates2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.69061</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.69061</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.29964</northBoundingCoordinate>
+                <southBoundingCoordinate>38.29964</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>SWLiberty</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6860805</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6860805</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.26131864</northBoundingCoordinate>
+                <southBoundingCoordinate>38.26131864</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>throwtraps</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.41541</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.41541</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.16935</northBoundingCoordinate>
+                <southBoundingCoordinate>38.16935</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Toedrain1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.6418877</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.6418877</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.35634969</northBoundingCoordinate>
+                <southBoundingCoordinate>38.35634969</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>TR1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.9818389</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.9818389</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.1207568</northBoundingCoordinate>
+                <southBoundingCoordinate>38.1207568</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>TR2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.9860338</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.9860338</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.12277207</northBoundingCoordinate>
+                <southBoundingCoordinate>38.12277207</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>TR3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.9895781</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.9895781</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.1283278</northBoundingCoordinate>
+                <southBoundingCoordinate>38.1283278</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>TR4</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.99668</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.99668</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.13487</northBoundingCoordinate>
+                <southBoundingCoordinate>38.13487</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>TR5</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.99668</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.99668</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.13487</northBoundingCoordinate>
+                <southBoundingCoordinate>38.13487</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>TR6</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.98169</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.98169</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.1136</northBoundingCoordinate>
+                <southBoundingCoordinate>38.1136</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>TR7</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.98161</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.98161</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.11378</northBoundingCoordinate>
+                <southBoundingCoordinate>38.11378</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Webb</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.5879041</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.5879041</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.09502792</northBoundingCoordinate>
+                <southBoundingCoordinate>38.09502792</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Wildlands</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.67107</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.67107</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.33402</northBoundingCoordinate>
+                <southBoundingCoordinate>38.33402</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>WinBR</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.847501</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.847501</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.04592853</northBoundingCoordinate>
+                <southBoundingCoordinate>38.04592853</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Wings 1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>122.03591</westBoundingCoordinate>
+                <eastBoundingCoordinate>122.03591</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.22694</northBoundingCoordinate>
+                <southBoundingCoordinate>38.22694</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Wings Brood Pond</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>122.03826</westBoundingCoordinate>
+                <eastBoundingCoordinate>122.03826</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.22601</northBoundingCoordinate>
+                <southBoundingCoordinate>38.22601</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Winter 1</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.8488996</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.8488996</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.04965383</northBoundingCoordinate>
+                <southBoundingCoordinate>38.04965383</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Winter 2</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.8442846</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.8442846</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.03794338</northBoundingCoordinate>
+                <southBoundingCoordinate>38.03794338</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Winter 3</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.8414193</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.8414193</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.03060978</northBoundingCoordinate>
+                <southBoundingCoordinate>38.03060978</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Winter 4</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.856805</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.856805</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.05228908</northBoundingCoordinate>
+                <southBoundingCoordinate>38.05228908</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+          <coverage>
+            <geographicCoverage>
+              <geographicDescription>Winter 5</geographicDescription>
+              <boundingCoordinates>
+                <westBoundingCoordinate>121.8542861</westBoundingCoordinate>
+                <eastBoundingCoordinate>121.8542861</eastBoundingCoordinate>
+                <northBoundingCoordinate>38.05212368</northBoundingCoordinate>
+                <southBoundingCoordinate>38.05212368</southBoundingCoordinate>
+              </boundingCoordinates>
+            </geographicCoverage>
+          </coverage>
+        </studyExtent>
+        <samplingDescription>Geographic coordinates of sampling sites</samplingDescription>
+      </sampling>
+    </methods>
+    <dataTable>
+      <entityName>fishFRP2018.csv</entityName>
+      <entityDescription>Fish Restoration program Fish catch and water quality data</entityDescription>
+      <physical>
+        <objectName>fishFRP2018.csv</objectName>
+        <size unit="byte">1255467</size>
+        <authentication method="MD5">27a075a71e2a2345ab569a95c4853b10</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>/fishFRP2018.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>SampleID</attributeName>
+          <attributeDefinition>Unique identifier given to the sample</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Unique identifier given to the sample</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeDefinition>Date of sample collection</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM/DD/YYYY</formatString>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Time</attributeName>
+          <attributeDefinition>Time at beginning of sample collection</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>hh:mm:ss</formatString>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Sampletype</attributeName>
+          <attributeDefinition>Method used to catch the fish. See "Sampletypes" table for specifications.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>beach seine</code>
+                    <definition>fish were caught using a beach seine, see "samplelookup" table for more information</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Lampara</code>
+                    <definition>fish were caught using a lampara net, see "samplelookup" table for more information</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Latitude</attributeName>
+          <attributeDefinition>Latitude in decimal degrees, WGS1984 as measured by Garmin 72H GPS or Lowrance HDS-7 Gen2 sonar</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">38</minimum>
+                  <maximum exclusive="false">38.29</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Longitude</attributeName>
+          <attributeDefinition>Longitude in decimal degrees, WGS1984 as measured by Garmin 72H GPS or Lowrance HDS-7 Gen2 sonar</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-122.05</minimum>
+                  <maximum exclusive="false">-121.45</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Temp</attributeName>
+          <attributeDefinition>Water temperature as measured by a YSI proplus or YSI 6600 sonde thermister. Resolution 0.1 degrees C</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">7.4</minimum>
+                  <maximum exclusive="false">28.3</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>SC</attributeName>
+          <attributeDefinition>Specific conductance as measured by a YSI Proplus or YSI 6600 sonde conductivity cell. Resolution 1 uS/cm</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>MicrosiemensPerCm</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">22.3</minimum>
+                  <maximum exclusive="false">17293</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>pH</attributeName>
+          <attributeDefinition>pH as measured by a YSI ProPlus or YSI 6600 sonde, Glass combination electrode, Model 1001, result ion 0.1.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">3</minimum>
+                  <maximum exclusive="false">9.3</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>DO</attributeName>
+          <attributeDefinition>Dissolved oxygen as measured by a YSI ProPlus or YSI 6600 sonde, Polarographic prob, Model 2003 (Yellow Springs Instruments, Inc). resolution 0.1 mg/L</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>milligramsPerLiter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">1.3</minimum>
+                  <maximum exclusive="false">15.3</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Secchi</attributeName>
+          <attributeDefinition>Secchi depth, resolution 1 cm</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">6</minimum>
+                  <maximum exclusive="false">200</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Turbidity</attributeName>
+          <attributeDefinition>Turbidity as measured with either a Micro TWP portable turbidity meter (HF Scientific, Inc, 0.1 NTU resolution), or a YSI 6600 sonde (Yellow Springs Instruments, Inc)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>NTU</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">1.6</minimum>
+                  <maximum exclusive="false">214</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Tide</attributeName>
+          <attributeDefinition>For tidal sites, where on the tidal cycle the water was when sampled.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>3=low slack</code>
+                    <definition>Tide was at or near low slack</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>2=ebb</code>
+                    <definition>Tide is was ebbing</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>4=flood</code>
+                    <definition>Tide was flooding</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>NA</code>
+                    <definition>Site was not tidal, or tidal stage was unknown</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1=high slack</code>
+                    <definition>Tide was at or near high slack</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>site was not tidal or tide stage was unknown</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Microcystis</attributeName>
+          <attributeDefinition>Amount of microcystis (toxic cyanobacteria) present in the water.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>1=absent</code>
+                    <definition>no visable microcystis in water</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>NA</code>
+                    <definition>microcystis not recorded</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>2=low</code>
+                    <definition>Some microcystis present in form of a few green flakes</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>3=medium</code>
+                    <definition>more, larger green flakes</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Microcystis not recorded</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>CommonName</attributeName>
+          <attributeDefinition>Common name of fish species (see organism lookup table)</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Common name of fish species (see organism lookup table)</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>empty net</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>ScientificName</attributeName>
+          <attributeDefinition>Scientific name (genus and species) of fish caught in the sample</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Scientific name (genus and species) of fish caught in the sample</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>empty net</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>volume</attributeName>
+          <attributeDefinition>estimated volume of water sampled</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>cubicMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">6.8</minimum>
+                  <maximum exclusive="false">745</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no volume available</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Length</attributeName>
+          <attributeDefinition>fork length (or total length for fish without fork) of fish</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">12</minimum>
+                  <maximum exclusive="false">1060</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>fish not measured</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>count</attributeName>
+          <attributeDefinition>Number of fish of specified taxon and length caught in sample</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">2974</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>empty net</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Station</attributeName>
+          <attributeDefinition>Sampling location</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Sampling location</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>6855</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>bugsFRP2018.csv</entityName>
+      <entityDescription>Fish Restoration program macroinvertebrate catch and water quality data</entityDescription>
+      <physical>
+        <objectName>bugsFRP2018.csv</objectName>
+        <size unit="byte">1171832</size>
+        <authentication method="MD5">923eabb244e13ff78f2f7599108cd460</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>/bugsFRP2018.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>SampleID</attributeName>
+          <attributeDefinition>Unique identifier given to the sample</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Unique identifier given to the sample</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeDefinition>Date of sample collection</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM/DD/YYYY</formatString>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>time</attributeName>
+          <attributeDefinition>Time at beginning of sample collection</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>hh:mm:ss</formatString>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Sampletype</attributeName>
+          <attributeDefinition>Gear used to collect the sample, see "samplelookupBIOS2018" for definitions</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>trawl</code>
+                    <definition>Sampled by mysid net, see "samplelookup" table for details</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>sweepnet</code>
+                    <definition>Vegetation sampled by sweep net, see "samplelookup" table for details</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>neuston</code>
+                    <definition>Sampled by neuston net, see "samplelookup" table for details</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Petite Ponar</code>
+                    <definition>Sampled by 6 in x 6 in ponar grab, see "samplelookup" table for details</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>PVC core</code>
+                    <definition>Sampled by 10 cm benthic core, see "samplelookup" table for details</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Latitude</attributeName>
+          <attributeDefinition>Latitude in decimal degrees, WGS1984 as measured by Garmin 72H GPS or Lowrance HDS-7 Gen2 sonar</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">38.02</minimum>
+                  <maximum exclusive="false">38.37</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Longitude</attributeName>
+          <attributeDefinition>Longitude in decimal degrees, WGS1984 as measured by Garmin 72H GPS or Lowrance HDS-7 Gen2 sonar</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-122.04</minimum>
+                  <maximum exclusive="false">-121.58</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Temp</attributeName>
+          <attributeDefinition>Water temperature as measured by a YSI proplus or YSI 6600 sonde thermister. Resolution 0.1 degrees C</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">7.8</minimum>
+                  <maximum exclusive="false">22.2</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>SC</attributeName>
+          <attributeDefinition>Specific conductance as measured by a YSI Proplus or YSI 6600 sonde conductivity cell. Resolution 1 uS/cm</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>MicrosiemensPerCm</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">2</minimum>
+                  <maximum exclusive="false">16503</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>pH</attributeName>
+          <attributeDefinition>pH as measured by a YSI ProPlus or YSI 6600 sonde, Glass combination electrode, Model 1001, result ion 0.1.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">4.7</minimum>
+                  <maximum exclusive="false">9</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>DO</attributeName>
+          <attributeDefinition>Dissolved oxygen as measured by a YSI ProPlus or YSI 6600 sonde, Polarographic prob, Model 2003 (Yellow Springs Instruments, Inc). resolution 0.1 mg/L</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>milligramsPerLiter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">2</minimum>
+                  <maximum exclusive="false">14.7</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Secchi</attributeName>
+          <attributeDefinition>Secchi depth, resolution 1 cm</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">8</minimum>
+                  <maximum exclusive="false">200</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Turbidity</attributeName>
+          <attributeDefinition>Turbidity as measured with either a Micro TWP portable turbidity meter (HF Scientific, Inc, 0.1 NTU resolution), or a YSI 6600 sonde (Yellow Springs Instruments, Inc)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>NTU</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.5</minimum>
+                  <maximum exclusive="false">262.7</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Tide</attributeName>
+          <attributeDefinition>For tidal sites, where on the tidal cycle the water was when sampled.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>2=ebb</code>
+                    <definition>Tide is was ebbing</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1=high slack</code>
+                    <definition>Tide was at or near high slack</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>4=flood</code>
+                    <definition>Tide was flooding</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>NA</code>
+                    <definition>Site was not tidal, or tidal stage was unknown</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>3=low slack</code>
+                    <definition>Tide was at or near low slack</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>site was not tidal or tide stage was unknown</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Microcystis</attributeName>
+          <attributeDefinition>Amount of microcystis (toxic cyanobacteria) present in the water.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>1=absent</code>
+                    <definition>no visable microcystis in water</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>3=medium</code>
+                    <definition>more, larger green flakes</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>2=low</code>
+                    <definition>Some microcystis present in form of a few green flakes</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>NA</code>
+                    <definition>microcystis not recorded</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Microcystis not recorded</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>volume</attributeName>
+          <attributeDefinition>Volume of water sampled</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>cubicMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">365.62</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Not applicable for sample type</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>subsample</attributeName>
+          <attributeDefinition>Fraction of total sample processed for identification</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">6.25</minimum>
+                  <maximum exclusive="false">100</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no catch</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>VegWeight</attributeName>
+          <attributeDefinition>Scientific name (genus and species) of fish caught in the sample</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>gram</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.06</minimum>
+                  <maximum exclusive="false">35.86</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no vegetation present in sample</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>CommonName</attributeName>
+          <attributeDefinition>Common name of fish species (see organism lookup table)</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Common name of fish species (see organism lookup table)</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no catch</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Count</attributeName>
+          <attributeDefinition>number of specified taxon counted in sample</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">1426</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no catch</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>AdjCount</attributeName>
+          <attributeDefinition>Number of organisms in total sample when adjusted for subsampling</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">7952</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no catch</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Station</attributeName>
+          <attributeDefinition>Sampling area as described in the 'StationsFRP2018' table</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Sampling area as described in the 'StationsFRP2018' table</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>6862</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>zoopsFRP2018.csv</entityName>
+      <entityDescription>Fish Restoration program zooplankton catch and water quality data</entityDescription>
+      <physical>
+        <objectName>zoopsFRP2018.csv</objectName>
+        <size unit="byte">1034756</size>
+        <authentication method="MD5">505c99e1817d0a9eb16b089d07efb87c</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>/zoopsFRP2018.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>SampleID</attributeName>
+          <attributeDefinition>Unique identifier given to the sample</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Unique identifier given to the sample</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Date</attributeName>
+          <attributeDefinition>Date of sample collection</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>MM/DD/YYYY</formatString>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>time</attributeName>
+          <attributeDefinition>Time at beginning of sample collection</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>hh:mm:ss</formatString>
+            </dateTime>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Latitude</attributeName>
+          <attributeDefinition>Latitude in decimal degrees, WGS1984 as measured by Garmin 72H GPS or Lowrance HDS-7 Gen2 sonar</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">38.02</minimum>
+                  <maximum exclusive="false">38.35</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Longitude</attributeName>
+          <attributeDefinition>Longitude in decimal degrees, WGS1984 as measured by Garmin 72H GPS or Lowrance HDS-7 Gen2 sonar</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-122.02</minimum>
+                  <maximum exclusive="false">-121.59</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Temp</attributeName>
+          <attributeDefinition>Water temperature as measured by a YSI proplus or YSI 6600 sonde thermister. Resolution 0.1 degrees C</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">9.5</minimum>
+                  <maximum exclusive="false">23.5</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>SC</attributeName>
+          <attributeDefinition>Specific conductance as measured by a YSI Proplus or YSI 6600 sonde conductivity cell. Resolution 1 uS/cm</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>MicrosiemensPerCm</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">17.6</minimum>
+                  <maximum exclusive="false">16281</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>pH</attributeName>
+          <attributeDefinition>pH as measured by a YSI ProPlus or YSI 6600 sonde, Glass combination electrode, Model 1001, resultion 0.1.</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">4.7</minimum>
+                  <maximum exclusive="false">8.6</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>DO</attributeName>
+          <attributeDefinition>Dissolved oxygen as measured by a YSI ProPlus or YSI 6600 sonde, Polarographic prob, Model 2003 (Yellow Springs Instruments, Inc). resolution 0.1 mg/L</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>milligramsPerLiter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">2.9</minimum>
+                  <maximum exclusive="false">99.4</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Secchi</attributeName>
+          <attributeDefinition>Secchi depth, resolution 1 cm</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>centimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">8</minimum>
+                  <maximum exclusive="false">150</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Turbidity</attributeName>
+          <attributeDefinition>Turbidity as measured with either a Micro TWP portable turbidity meter (HF Scientific, Inc, 0.1 NTU resolution), or a YSI 6600 sonde (Yellow Springs Instruments, Inc)</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <customUnit>NTU</customUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">1.1</minimum>
+                  <maximum exclusive="false">210.2</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>equipment was broken or forgotten</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Tide</attributeName>
+          <attributeDefinition>For tidal sites, where on the tidal cycle the water was when sampled.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>2=ebb</code>
+                    <definition>Tide is was ebbing</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>1=high slack</code>
+                    <definition>Tide was at or near high slack</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>4=flood</code>
+                    <definition>Tide was flooding</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>3=low slack</code>
+                    <definition>Tide was at or near low slack</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>NA</code>
+                    <definition>Site was not tidal, or tidal stage was unknown</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>site was not tidal or tide stage was unknown</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Microcystis</attributeName>
+          <attributeDefinition>Amount of microcystis (toxic cyanobacteria) present in the water.</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>1=absent</code>
+                    <definition>no visable microcystis in water</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>2=low</code>
+                    <definition>Some microcystis present in form of a few green flakes</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>microcystis presence was not recorded</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>CommonName</attributeName>
+          <attributeDefinition>Name of invertebrate (see taxon lookup table)</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Name of invertebrate (see taxon lookup table)</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>subsample</attributeName>
+          <attributeDefinition>Number of organisms of the specified taxon that were identified and counted in the subsample</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.01</minimum>
+                  <maximum exclusive="false">0.6</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no catch</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>volume</attributeName>
+          <attributeDefinition>Number of organisms in the full sample</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>cubicMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.02</minimum>
+                  <maximum exclusive="false">68.94</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Flowmeter was broken</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Count</attributeName>
+          <attributeDefinition>Percentage of the sample processed</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">4391</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no catch</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>AdjCount</attributeName>
+          <attributeDefinition>Volume of water sampled</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">1.67</minimum>
+                  <maximum exclusive="false">378000</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no catch</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>CPUE</attributeName>
+          <attributeDefinition>Number of organisms per cubic meter of water</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>numberPerMeterCubed</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.12</minimum>
+                  <maximum exclusive="false">238742.73</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no catch</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Station</attributeName>
+          <attributeDefinition>Sampling area as described in the 'StationsFRP2018' table</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Sampling area as described in the 'StationsFRP2018' table</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>5584</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>orglookupBIOS2018.csv</entityName>
+      <entityDescription>Organism look-up table with full taxonomy information for Fish Restoration Program data</entityDescription>
+      <physical>
+        <objectName>orglookupBIOS2018.csv</objectName>
+        <size unit="byte">25318</size>
+        <authentication method="MD5">81965265ea03fd1d29e4783ed04d50ae</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>/orglookupBIOS2018.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>CommonName</attributeName>
+          <attributeDefinition>Name and/or description used by FRP staff in refering to the organism</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Name and/or description used by FRP staff in refering to the organism</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>.</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Phylum</attributeName>
+          <attributeDefinition>Scientific classification of organism</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Scientific classification of organism</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>organism was not identified to phylum</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Class</attributeName>
+          <attributeDefinition>Scientific classification of organism</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Scientific classification of organism</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>organism was not identified to class</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Order</attributeName>
+          <attributeDefinition>Scientific classification of organism</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Scientific classification of organism</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>organism was not identified to order</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Family</attributeName>
+          <attributeDefinition>Scientific classification of organism</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Scientific classification of organism</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>organism was not identified to family</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Genus</attributeName>
+          <attributeDefinition>Scientific classification of organism</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Scientific classification of organism</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>organism was not identified to genus</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Species</attributeName>
+          <attributeDefinition>Scientific classification of organism</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Scientific classification of organism</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>organism was not identified to species</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>LifeStage</attributeName>
+          <attributeDefinition>Life stage of organism "larvae", "pupae", or "adult"</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Life stage of organism "larvae", "pupae", or "adult"</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>unknown or not applicable</codeExplanation>
+          </missingValueCode>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>347</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>samplelookupBIOS2018.csv</entityName>
+      <entityDescription>Sample type look-up table with details on gear and CPUE calculations used to collect fish and invertebrate data</entityDescription>
+      <physical>
+        <objectName>samplelookupBIOS2018.csv</objectName>
+        <size unit="byte">1679</size>
+        <authentication method="MD5">12422599c386d14e4dd43b2155808841</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>/samplelookupBIOS2018.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Sampletype</attributeName>
+          <attributeDefinition>name of sampling gear</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>name of sampling gear</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>targettaxa</attributeName>
+          <attributeDefinition>type of organism that is the primary target of the sampling gear</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>type of organism that is the primary target of the sampling gear</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>MouthArea</attributeName>
+          <attributeDefinition>Area of the mouth of the net (when applicable</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>squareMeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.01</minimum>
+                  <maximum exclusive="false">0.16</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Not applicable</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Description</attributeName>
+          <attributeDefinition>Specifications of the gear type</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Specifications of the gear type</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>CPUEcalculation</attributeName>
+          <attributeDefinition>How FRP calculates catch per unit effort</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>How FRP calculates catch per unit effort</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>9</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>EnviromentalGear.csv</entityName>
+      <entityDescription>Environmental gear information with mainenance and QAQC details</entityDescription>
+      <physical>
+        <objectName>EnviromentalGear.csv</objectName>
+        <size unit="byte">1346</size>
+        <authentication method="MD5">75a115cd1ccab506f23d9e8810aa02c6</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>/EnviromentalGear.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Geartype</attributeName>
+          <attributeDefinition>type of instrument used</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>type of instrument used</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Analysis</attributeName>
+          <attributeDefinition>Environmental parameter measured by instrument</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Environmental parameter measured by instrument</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Description</attributeName>
+          <attributeDefinition>Description of instrument</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Description of instrument</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Manufacturer</attributeName>
+          <attributeDefinition>Manufactorer of instrument</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Manufactorer of instrument</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>units</attributeName>
+          <attributeDefinition>Units of environmental parameter</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Units of environmental parameter</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>ResolutionAccuracy</attributeName>
+          <attributeDefinition>resolution and accuracy of the instrument</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>resolution and accuracy of the instrument</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>QAQC</attributeName>
+          <attributeDefinition>Quality assurance and quality control procedures followed</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Quality assurance and quality control procedures followed</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>9</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>StationsFRP2018.csv</entityName>
+      <entityDescription>Locations of sampling stations</entityDescription>
+      <physical>
+        <objectName>StationsFRP2018.csv</objectName>
+        <size unit="byte">12209</size>
+        <authentication method="MD5">460b783399ea7a451fd4650b65eeedaf</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\r\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+        <distribution>
+          <online>
+            <url>/StationsFRP2018.csv</url>
+          </online>
+        </distribution>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>Station</attributeName>
+          <attributeDefinition>Station name</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Station name</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Latitude</attributeName>
+          <attributeDefinition>Latitude in decimal degrees, WGS 1984</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">38</minimum>
+                  <maximum exclusive="false">38.36</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Longitude</attributeName>
+          <attributeDefinition>Longitude in decimal degrees, WGS 1984</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>degree</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">21.46</minimum>
+                  <maximum exclusive="false">122.04</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Location</attributeName>
+          <attributeDefinition>Broader region where the station is located</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Broader region where the station is located</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Notes</attributeName>
+          <attributeDefinition>Description of station location</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Description of station location</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>143</numberOfRecords>
+    </dataTable>
+  </dataset>
+  <additionalMetadata>
+    <metadata>
+      <unitList xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <unit id="MicrosiemensPerCm" name="MicrosiemensPerCm" parentSI="" unitType="Conductivity" multiplierToSI="">
+          <description>Specific conductance of water</description>
+        </unit>
+        <unit id="NTU" name="NTU" parentSI="" unitType="Turbidity" multiplierToSI="">
+          <description>propensity of particles to scatter a light beam</description>
+        </unit>
+      </unitList>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>
