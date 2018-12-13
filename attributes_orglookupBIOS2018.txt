@@ -1,0 +1,9 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+CommonName	Name and/or description used by FRP staff in refering to the organism	character			NA	.
+Phylum	Scientific classification of organism	character			NA	organism was not identified to phylum
+Class	Scientific classification of organism	character			NA	organism was not identified to class
+Order	Scientific classification of organism	character			NA	organism was not identified to order
+Family	Scientific classification of organism	character			NA	organism was not identified to family
+Genus	Scientific classification of organism	character			NA	organism was not identified to genus
+Species	Scientific classification of organism	character			NA	organism was not identified to species
+LifeStage	"Life stage of organism ""larvae"", ""pupae"", or ""adult"""	character			NA	unknown or not applicable

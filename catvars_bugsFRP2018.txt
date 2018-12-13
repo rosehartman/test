@@ -1,0 +1,15 @@
+attributeName	code	definition
+Sampletype	trawl	"Sampled by mysid net, see ""samplelookup"" table for details"
+Sampletype	sweepnet	"Vegetation sampled by sweep net, see ""samplelookup"" table for details"
+Sampletype	neuston	"Sampled by neuston net, see ""samplelookup"" table for details"
+Sampletype	Petite Ponar	"Sampled by 6 in x 6 in ponar grab, see ""samplelookup"" table for details"
+Sampletype	PVC core	"Sampled by 10 cm benthic core, see ""samplelookup"" table for details"
+Tide	2=ebb	Tide is was ebbing
+Tide	1=high slack	Tide was at or near high slack
+Tide	4=flood	Tide was flooding
+Tide	NA	"Site was not tidal, or tidal stage was unknown"
+Tide	3=low slack	Tide was at or near low slack
+Microcystis	1=absent	no visable microcystis in water
+Microcystis	3=medium	"more, larger green flakes"
+Microcystis	2=low	Some microcystis present in form of a few green flakes
+Microcystis	NA	microcystis not recorded

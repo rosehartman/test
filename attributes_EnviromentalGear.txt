@@ -1,0 +1,8 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Geartype	type of instrument used	character				
+Analysis	Environmental parameter measured by instrument	character				
+Description	Description of instrument	character				
+Manufacturer	Manufactorer of instrument	character				
+units	Units of environmental parameter	character				
+ResolutionAccuracy	resolution and accuracy of the instrument	character				
+QAQC	Quality assurance and quality control procedures followed	character				

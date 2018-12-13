@@ -1,0 +1,17 @@
+keyword	keywordThesaurus
+restoration	LTER Controlled Vocabulary
+Interagency Ecological Program for the San Francisco Bay Delta Estuary	
+IEP	
+fish	LTER Controlled Vocabulary
+aquatic invertebrates	LTER Controlled Vocabulary
+zooplankton	LTER Controlled Vocabulary
+wetland	LTER Controlled Vocabulary
+water quality	LTER Controlled Vocabulary
+estuary	LTER Controlled Vocabulary
+freshwater	LTER Controlled Vocabulary
+brackish water	LTER Controlled Vocabulary
+monitoring	LTER Controlled Vocabulary
+California Department of Fish and Wildlife	
+CDFW	
+ecology	LTER Controlled Vocabulary
+aquatic ecosystems	LTER Controlled Vocabulary

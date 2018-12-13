@@ -1,0 +1,10 @@
+Geartype,Analysis,Description,Manufacturer,units,ResolutionAccuracy,QAQC
+Portable turbidity meter,Turbidity,Micro TWP,"HF Scientific, inc.",NTU,0.1 +/- 2%,Calibration with turbidity standards
+Sonar,Depth,LOWRANCE HDS-7 Gen2 Touch Fishfinder/Chartplotter with 83/200 kHz and Structure Scan transducers,Lowrance,ft,0.1 +/-0.1 ft,"Test against known locations (boat dock, channel intersections, etc)"
+GPS,Location,Garmin handheld GPS 72H,Garmin,Decimal Degrees,"0.00001_, accuracy varies with satellites, generally +/- <2m","Test against known locations (boat dock, channel intersections, etc)"
+YSI proplus,DO,"Polarographic prob, Model 2003",YSI,miligramsPerLeter,0.1 +/- 0.2,Daily calibration with saturated air
+YSI proplus,Specific Conductance,conductivity cell,YSI,microSiemensPerCm,1 +/- 2,"Calibration with Oakton calibration standards:  23, 1413, 12880 uS/cm"
+YSI proplus,pH,"Glass combination electrode, Model 1001",YSI,dementionless,0.01 +/- 0.3,"Calibration with Oakton calibration standards at pH 4.01, 7 and 10"
+YSI proplus,Temperature,Thermistor,YSI,degrees Celcius,0.1 +/- 0.5,Factory calibration
+Secchi disk,Secchi depth,30 cm black-and-white disk attached to a 2m stick,FRP staff,cm,1 +/- 10%,Yearly field training
+flowmeter,water velocity,model 2030R,"General Oceanics, Miami FL",revolutions,NA,yearly Factory calibration

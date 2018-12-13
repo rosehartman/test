@@ -1,0 +1,12 @@
+attributeName	code	definition
+Sampletype	beach seine	"fish were caught using a beach seine, see ""samplelookup"" table for more information"
+Sampletype	Lampara	"fish were caught using a lampara net, see ""samplelookup"" table for more information"
+Tide	3=low slack	Tide was at or near low slack
+Tide	2=ebb	Tide is was ebbing
+Tide	4=flood	Tide was flooding
+Tide	NA	"Site was not tidal, or tidal stage was unknown"
+Tide	1=high slack	Tide was at or near high slack
+Microcystis	1=absent	no visable microcystis in water
+Microcystis	NA	microcystis not recorded
+Microcystis	2=low	Some microcystis present in form of a few green flakes
+Microcystis	3=medium	"more, larger green flakes"

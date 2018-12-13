@@ -1,0 +1,6 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Sampletype	name of sampling gear	character				
+targettaxa	type of organism that is the primary target of the sampling gear	character				
+MouthArea	Area of the mouth of the net (when applicable	numeric	squareMeter		NA	Not applicable
+Description	Specifications of the gear type	character				
+CPUEcalculation	How FRP calculates catch per unit effort	character				

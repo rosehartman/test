@@ -1,0 +1,9 @@
+givenName	middleInitial	surName	organizationName	electronicMailAddress	userId	role	projectTitle	fundingAgency	fundingNumber
+		Interagency Ecological Program		iep@wildlife.ca.gov		associate			
+		California Department of Fish and Wildlife				creator			
+Rosemary		Hartman	California Department of Fish and Wildlife	Rosemary.Hartman@wildlife.ca.gov	0000-0002-0642-183X 	creator	Fish Restoration Program Monitoring	California Department of Water Resources	
+Stacy		Sherman	California Department of Fish and Wildlife	Stacy.Sherman@wildlife.ca.gov	0000-0002-8392-7287	creator	Fish Restoration Program Monitoring	California Department of Water Resources	
+Dave		Contreras	California Department of Fish and Wildlife	Dave.Contreras@wildlife.ca.gov	0000-0002-8692-3185	creator	Fish Restoration Program Monitoring	California Department of Water Resources	
+Daniel		Ellis	California Department of Fish and Wildlife	Daniel.Ellis@wildlife.ca.gov	0000-0002-5900-2962	creator	Fish Restoration Program Monitoring	California Department of Water Resources	
+Ryan		Kok	California Department of Fish and Wildlife	Ryan.Kok@wildlife.ca.gov		associate	Fish Restoration Program Monitoring	California Department of Water Resources	
+Rosemary		Hartman	California Department of Fish and Wildlife	Rosemary.Hartman@wildlife.ca.gov	0000-0002-0642-183X 	contact	Fish Restoration Program Monitoring	California Department of Water Resources	

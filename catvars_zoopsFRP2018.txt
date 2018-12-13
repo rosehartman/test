@@ -1,0 +1,9 @@
+attributeName	code	definition
+Tide	2=ebb	Tide is was ebbing
+Tide	1=high slack	Tide was at or near high slack
+Tide	4=flood	Tide was flooding
+Tide	3=low slack	Tide was at or near low slack
+Tide	NA	"Site was not tidal, or tidal stage was unknown"
+Microcystis	1=absent	no visable microcystis in water
+Microcystis	2=low	Some microcystis present in form of a few green flakes
+

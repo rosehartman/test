@@ -1,0 +1,21 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+SampleID	Unique identifier given to the sample	character				
+Date	Date of sample collection	Date		MM/DD/YYYY		
+time	Time at beginning of sample collection	Date		hh:mm:ss		
+Latitude	"Latitude in decimal degrees, WGS1984 as measured by Garmin 72H GPS or Lowrance HDS-7 Gen2 sonar"	numeric	degree			
+Longitude	"Longitude in decimal degrees, WGS1984 as measured by Garmin 72H GPS or Lowrance HDS-7 Gen2 sonar"	numeric	degree			
+Temp	Water temperature as measured by a YSI proplus or YSI 6600 sonde thermister. Resolution 0.1 degrees C	numeric	degree		NA	equipment was broken or forgotten
+SC	Specific conductance as measured by a YSI Proplus or YSI 6600 sonde conductivity cell. Resolution 1 uS/cm	numeric	MicrosiemensPerCm		NA	equipment was broken or forgotten
+pH	"pH as measured by a YSI ProPlus or YSI 6600 sonde, Glass combination electrode, Model 1001, resultion 0.1."	numeric	dimensionless		NA	equipment was broken or forgotten
+DO	"Dissolved oxygen as measured by a YSI ProPlus or YSI 6600 sonde, Polarographic prob, Model 2003 (Yellow Springs Instruments, Inc). resolution 0.1 mg/L"	numeric	milligramsPerLiter		NA	equipment was broken or forgotten
+Secchi	"Secchi depth, resolution 1 cm"	numeric	centimeter		NA	equipment was broken or forgotten
+Turbidity	"Turbidity as measured with either a Micro TWP portable turbidity meter (HF Scientific, Inc, 0.1 NTU resolution), or a YSI 6600 sonde (Yellow Springs Instruments, Inc)"	numeric	NTU		NA	equipment was broken or forgotten
+Tide	"For tidal sites, where on the tidal cycle the water was when sampled. "	categorical			NA	site was not tidal or tide stage was unknown
+Microcystis	Amount of microcystis (toxic cyanobacteria) present in the water.	categorical			NA	microcystis presence was not recorded
+CommonName	Name of invertebrate (see taxon lookup table)	character				
+subsample	Number of organisms of the specified taxon that were identified and counted in the subsample	numeric	dimensionless		NA	no catch
+volume	Number of organisms in the full sample	numeric	cubicMeter		NA	Flowmeter was broken
+Count	Percentage of the sample processed	numeric	dimensionless		NA	no catch
+AdjCount	Volume of water sampled	numeric	dimensionless		NA	no catch
+CPUE	Number of organisms per cubic meter of water	numeric	numberPerMeterCubed		NA	no catch
+Station	Sampling area as described in the 'StationsFRP2018' table	character				

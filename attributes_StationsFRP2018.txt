@@ -1,0 +1,6 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+Station	Station name	character				
+Latitude	"Latitude in decimal degrees, WGS 1984"	numeric	degree			
+Longitude	"Longitude in decimal degrees, WGS 1984"	numeric	degree			
+Location	Broader region where the station is located	character				
+Notes	Description of station location	character				

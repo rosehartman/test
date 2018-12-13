@@ -1,0 +1,10 @@
+Sampletype,targettaxa,MouthArea,Description,CPUEcalculation
+beach seine,Fish,NA,"15mx1.2m, 3mm delta square mesh. With a 1.7m cubed cod end","Catch per unit volume, with volume calculated by depth of water multiplied by distance seined and width of seine"
+Lampara,Fish,NA,"LAM01,  LAM02, LAM03 = 36 m long and consists of the following mesh sizes: 6mm at bag, with wings: 70mm, 146mm, and 89mm","Catch per unit volume, as calculated by length of net and volume of a wedge."
+Trawl,Macroinvertebrates,0.16,"500 micron mesh x 2m long, mouth opening = 0.4m x 0.4m","Catch per unit volume, with volume calculated by mouth area multiplied by flowmeter readings."
+neuston,Macroinvertebrates,0.135,"0.3 m x 0.45 m rectangular net, 1 m long with 500 micron mesh, pulled along the surface, half-way out of the water",Catch per unit surface area. Surface area calculated from width of net multiplied by distance trawled.
+PCV core,Benthic macroinvertebrates,0.00811,"4"" PVC pipe","Catch per unit area, with each sample having an area of 0.00841 m2"
+Petite Ponar,Benthic macroinvertebrates,0.0231,Same as USFWS liberty Island study,"Catch per unit area, with each sample having an area of 0.0231 m2"
+Ponar grab,Benthic macroinvertebrates,0.0523,Same as EMP surveys,"Catch per unit area, with each sample having an area of 0.0523 m2"
+sweepnet,Vegetation-associated invertebrates,0.075,0.3m x 0.25m d-frame net with 500 micron mesh,"Catch per sample, or catch per gram dry mass of vegetation."
+zooplankton net,Mesozooplankton,0.0167,"0.15 cm diameter, 1-meter long with 150 micron mesh","Catch per unit volume, with volume calculated by mouth area multiplied by flowmeter readings."

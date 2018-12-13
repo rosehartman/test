@@ -1,0 +1,348 @@
+CommonName,Phylum,Class,Order,Family,Genus,Species,LifeStage
+Stylaria,Annelida,Clitellata,Haplotaxida,Tubificina,Stylaria,NA,adult
+Leech,Annelida,Hirudinea,NA,NA,NA,NA,adult
+Lumbricidae,Annelida,Oligochaeta,Haplotaxida,Lumbricidae,NA,NA,adult
+Oligocheate,Annelida,Oligocheata,NA,NA,NA,NA,adult
+Hediste limnicola,Annelida,Polychaeta,Phyllodocida,Nereididae,Hediste,limnicola,adult
+Polychaete,Annelida,Polychaeta,NA,NA,NA,NA,adult
+Worm UNID,Annelida,NA,NA,NA,NA,NA,adult
+Spider,Arthropoda,Arachnida,Araneae,NA,NA,NA,adult
+Mite,Arthropoda,Arachnida,Hydracarina,NA,NA,NA,adult
+Leptodora,Arthropoda,Brachiopoda,Cladocera,Leptodoridae,Leptodora,NA,adult
+Bosmina,Arthropoda,Branchiopoda,Cladocera,NA,Bosmina,longirostris,adult
+Daphnia,Arthropoda,Branchiopoda,Cladocera,NA,Daphnia,spp.,adult
+Diaphanosoma,Arthropoda,Branchiopoda,Cladocera,NA,Diaphanosoma,spp.,adult
+Ceriodaphnia,Arthropoda,Branchiopoda,Cladocera,NA,Ceriodaphnia,spp.,adult
+Cladocera Other,Arthropoda,Branchiopoda,Cladocera,NA,NA,NA,adult
+Cladocera,Arthropoda,Branchiopoda,Cladocera,NA,NA,NA,adult
+Chydorus,Arthropoda,Branchiopoda,Cladocera,Chydoridae,Chydorus,NA,adult
+Moina,Arthropoda,Branchiopoda,Cladocera,Moinidae,Moina,NA,adult
+Sida,Arthropoda,Branchiopoda,Cladocera,Sididae,Sida,NA,adult
+Simocephalus,Arthropoda,Branchiopoda,Cladocera,Daphniidae,Simocephalus,NA,adult
+Ilyocryptus,Arthropoda,Branchiopoda,Cladocera,Ilyocryptidae,Ilyocryptus,NA,adult
+Scapholeberis,Arthropoda,Branchiopoda,Cladocera,Daphniidae,Scapholeberis,NA,adult
+Holopedium,Arthropoda,Branchiopoda,Cladocera,Holopedidae,Holopedium,NA,adult
+Macrothricidae,Arthropoda,Branchiopoda,Cladocera,Macrothricidae,NA,NA,adult
+Barnacle Nauplii,Arthropoda,Cirripedia,NA,NA,NA,NA,larvae
+Collembola,Arthropoda,Collembola,NA,NA,NA,NA,adult
+Acartia spp.,Arthropoda,Copepoda,Calanoida,NA,Acartia,spp.,adult
+Diaptomidae spp.,Arthropoda,Copepoda,Calanoida,Diaptomidae,NA,NA,adult
+Pseudodiaptomus spp.,Arthropoda,Copepoda,Calanoida,NA,Pseudodiaptomus,spp.,adult
+Eurytemora affinis,Arthropoda,Copepoda,Calanoida,NA,Eurytemora,affinis,adult
+Sinocalanus,Arthropoda,Copepoda,Calanoida,NA,Sinocalanus,doerrii,adult
+Osphranticum,Arthropoda,Copepoda,Calanoida,NA,Osphranticum,labronectum,adult
+Acartiella,Arthropoda,Copepoda,Calanoida,NA,Acartiella,sinensis,adult
+Tortanus,Arthropoda,Copepoda,Calanoida,NA,Tortanus,sp.,adult
+Acartia copepodid,Arthropoda,Copepoda,Calanoida,NA,Acartia,NA,larvae
+calanoid copepodid,Arthropoda,Copepoda,Calanoida,NA,NA,NA,larvae
+Eurytemora copepodid,Arthropoda,Copepoda,Calanoida,NA,Eurytemora,affinis,larvae
+Pseudodiaptomus copepodid,Arthropoda,Copepoda,Calanoida,NA,Pseudodiaptomus,spp.,larvae
+Pseudodiaptomus euryhalinus,Arthropoda,Copepoda,Calanoida,NA,Pseudodiaptomus,euryhalinus,adult
+Diaptomidae copepodid,Arthropoda,Copepoda,Calanoida,Diaptomidae,NA,NA,larvae
+Acartiella copepodid,Arthropoda,Copepoda,Calanoida,NA,Acartiella,NA,larvae
+Tortanus copepodid,Arthropoda,Copepoda,Calanoida,NA,Tortanus,NA,larvae
+Tortanus dextrilobatus,Arthropoda,Copepoda,Calanoida,NA,Tortanus,dextrilobatus,adult
+Calanoid UNID,Arthropoda,Copepoda,Calanoida,NA,NA,NA,adult
+Calanoid Other,Arthropoda,Copepoda,Calanoida,NA,NA,NA,adult
+Tortanus discaudatus,Arthropoda,Copepoda,Calanoida,NA,Tortanus,discaudatus,adult
+Eurytemora nauplii,Arthropoda,Copepoda,Calanoida,NA,Eurytemora,NA,larvae
+Sinocalanus nauplii,Arthropoda,Copepoda,Calanoida,NA,Sinocalanus,NA,larvae
+Pseudodiaptomus nauplii,Arthropoda,Copepoda,Calanoida,NA,Pseudodiaptomus,spp.,larvae
+Sinocalanus copepodid,Arthropoda,Copepoda,Calanoida,NA,Sinocalanus,NA,larvae
+Pseudodiaptomus forbesi,Arthropoda,Copepoda,Calanoida,NA,Pseudodiaptomus,forbesii,adult
+Pseudodiaptomus marinus,Arthropoda,Copepoda,Calanoida,NA,Pseudodiaptomus,marinus,adult
+Calanoid,Arthropoda,Copepoda,Calanoida,NA,NA,NA,adult
+Eurytemora (gravid),Arthropoda,Copepoda,Calanoida,NA,Eurytemora,affinis,adult
+P. forbesi (gravid),Arthropoda,Copepoda,Calanoida,NA,Pseudodiaptomus,forbesi,adult
+Sinocalanus (gravid),Arthropoda,Copepoda,Calanoida,NA,Sinocalanus,doerii,adult
+Osphranticum (gravid),Arthropoda,Copepoda,Calanoida,NA,Osphranticum,labronectum,adult
+Diaptomidae (gravid),Arthropoda,Copepoda,Calanoida,Diaptomidae,NA,NA,adult
+P. marinus (gravid),Arthropoda,Copepoda,Calanoida,NA,Pseudodiaptomus,marinus,adult
+Calanoid copepod (gravid),Arthropoda,Copepoda,Calanoida,NA,NA,NA,adult
+Cyclopoid copepodid,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,larvae
+Acanthocyclops,Arthropoda,Copepoda,Cyclopoida,NA,Acanthocyclops,vernalis,adult
+Oithona similis,Arthropoda,Copepoda,Cyclopoida,NA,Oithona,similis,adult
+Oithona davisae,Arthropoda,Copepoda,Cyclopoida,NA,Oithona,davisae,adult
+Limnoithona spp.,Arthropoda,Copepoda,Cyclopoida,NA,Limnothoina,spp.,adult
+Limnoithona sinensis,Arthropoda,Copepoda,Cyclopoida,NA,Limnoithona,sinensis,adult
+Limnoithona tetraspina,Arthropoda,Copepoda,Cyclopoida,NA,Limnoithona,tetraspina,adult
+Oithona spp.,Arthropoda,Copepoda,Cyclopoida,NA,Oithona,spp,adult
+Cyclopoid UNID,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,adult
+Cyclopoid Other,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,adult
+Limnoithona juvenile,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,larvae
+Oithona juvenile,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,larvae
+Cyclopoid,Arthropoda,Copepoda,Cyclopoida,NA,NA,NA,adult
+Halicyclops,Arthropoda,Copepoda,Cyclopoida,Cyclopidae,Halicyclops,NA,adult
+Diacyclops,Arthropoda,Copepoda,Cyclopoida,Cyclopodidae,Diacyclops,thomasi,adult
+Eucyclops,Arthropoda,Copepoda,Cyclopoida,Cyclopidae,Eucyclops,NA,adult
+Macrocyclops,Arthropoda,Copepoda,Cyclopoida,Cyclopidae,Macrocyclops,NA,adult
+Homocyclops,Arthropoda,Copepoda,Cyclopoida,Cyclopidae,Homocyclops,NA,adult
+Mesocyclops,Arthropoda,Copepoda,Cyclopoida,Cyclopidae,Mesocyclops,NA,adult
+Paracyclops,Arthropoda,Copepoda,Cyclopoida,Cyclopidae,Paracyclops,NA,adult
+Harpacticoids,Arthropoda,Copepoda,Harpacticoida,NA,NA,NA,adult
+Copepod Nauplii,Arthropoda,Copepoda,NA,NA,NA,NA,larvae
+Copepod UNID,Arthropoda,Copepoda,NA,NA,NA,NA,adult
+Parasitic Copepod,Arthropoda,Copepoda,NA,NA,NA,NA,adult
+Hydrophilidae Larvae Beetle,Arthropoda,Insecta,Coleoptera,Hydrophilide,NA,NA,larvae
+Hydrophilidae Adult Beetle,Arthropoda,Insecta,Coleoptera,Hydrophilidae,NA,NA,adult
+Coleoptera Other,Arthropoda,Insecta,Coleoptera,NA,NA,NA,adult
+Coleoptera Larvae,Arthropoda,Insecta,Coleoptera,NA,NA,NA,larvae
+Dytiscidae larvae,Arthropoda,Insecta,Coleoptera,Dytiscidae,NA,NA,larvae
+Staphylinidae adult,Arthropoda,Insecta,Coleoptera,Staphylinidae,NA,NA,adult
+Curculionidae,Arthropoda,Insecta,Coleoptera,Curculionidae,NA,NA,adult
+Noteridae,Arthropoda,Insecta,Coleoptera,Noteridae,NA,NA,adult
+Dytiscidae adult,Arthropoda,Insecta,Coleoptera,Dytiscidae,NA,NA,adult
+Elmidae,Arthropoda,Insecta,Coleoptera,Elmidae,NA,NA,adult
+Elmidae larvae,Arthropoda,Insecta,Coleoptera,Elmidae,NA,NA,adult
+Gyrinidae larvae,Arthropoda,Insecta,Coleoptera,Gyrinidae,NA,NA,larvae
+Curculionidae Larvae,Arthropoda,Insecta,Coleoptera,Curculionidae,NA,NA,larvae
+Chrysomelidae Adult,Arthropoda,Insecta,Coleoptera,Chrysomelidae,NA,NA,adult
+Scolytinae Adult,Arthropoda,Insecta,Coleoptera,Curculionidae,Scolytus,NA,adult
+Haliplidae Larvae,Arthropoda,Insecta,Coleoptera,Haliplidae,NA,NA,larvae
+Carabidae Larvae,Arthropoda,Insecta,Coleoptera,Carabidae,NA,NA,larvae
+Hydraenidae,Arthropoda,Insecta,Coleoptera,Hydraenidea,NA,NA,adult
+Coccinellidae Adult,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,adult
+Ptilidae,Arthropoda,Insecta,Coleoptera,Ptilidae,NA,NA,adult
+Hydroscaphidae Adult,Arthropoda,Insecta,Coleoptera,Hydroscaphidae,NA,NA,adult
+Tenebrionidae adult,Arthropoda,Insecta,Coleoptera,Tenebrionidae,NA,NA,adult
+Coccinellidae Larvae,Arthropoda,Insecta,Coleoptera,Coccinellidae,NA,NA,larvae
+Scirtidae adult,Arthropoda,Insecta,Coleoptera,Scirtidae,NA,NA,adult
+Earwig,Arthropoda,Insecta,Dermaptera,NA,NA,NA,adult
+Chironomid Larvae,Arthropoda,Insecta,Diptera,Chironomidae,NA,NA,larvae
+Ephydridae Larvae,Arthropoda,Insecta,Diptera,Ephydridae,NA,NA,larvae
+Diptera Adult,Arthropoda,Insecta,Diptera,NA,NA,NA,adult
+Brachycera Larvae,Arthropoda,Insecta,Diptera,NA,NA,NA,larvae
+Diptera Larvae Other,Arthropoda,Insecta,Diptera,NA,NA,NA,larvae
+Ceratopogonidae larvae,Arthropoda,Insecta,Diptera,Ceratopogonidae,NA,NA,larvae
+Diptera Pupae,Arthropoda,Insecta,Diptera,NA,NA,NA,pupae
+Brachycera Pupae,Arthropoda,Insecta,Diptera,NA,NA,NA,pupae
+Psychodidae larvae,Arthropoda,Insecta,Diptera,Psychodidae,NA,NA,larvae
+Tabanidae,Arthropoda,Insecta,Diptera,Tabanidae,NA,NA,larvae
+Nematocera pupae,Arthropoda,Insecta,Diptera,NA,NA,NA,pupae
+Dolichopodidae larvae,Arthropoda,Insecta,Diptera,Dolichopodidae,NA,NA,larvae
+Tipulidae larvae,Arthropoda,Insecta,Diptera,Tipulidae,NA,NA,larvae
+Sciomyzidae Larvae,Arthropoda,Insecta,Diptera,Sciomyzidae,NA,NA,larvae
+Culicidae Larvae,Arthropoda,Insecta,Diptera,Culicidae,NA,NA,larvae
+Simuliidae larvae,Arthropoda,Insecta,Diptera,Simuliidae,NA,NA,larvae
+Muscidae larvae,Arthropoda,Insecta,Diptera,Muscidae,NA,NA,larvae
+Stratiomyidae larvae,Arthropoda,Insecta,Diptera,Stratiomyidae,NA,NA,larvae
+Baetidae,Arthropoda,Insecta,Ephemeroptera,Baetidae,NA,NA,larvae
+Caenidae,Arthropoda,Insecta,Ephemeroptera,Caenidae,NA,NA,larvae
+Ephemeroptera larvae Other,Arthropoda,Insecta,Ephemeroptera,NA,NA,NA,larvae
+Tricorythidae larvae,Arthropoda,Insecta,Ephemeroptera,Tricorythidae,NA,NA,larvae
+Leptohyphidae mayfly larvae,Arthropoda,Insecta,Ephemeroptera,Leptohyphidae,Tricorythodes,minutus,larvae
+Ephemeroptera Adult,Arthropoda,Insecta,Ephemeroptera,NA,NA,NA,adult
+Belostomatidae,Arthropoda,Insecta,Hemiptera,Belostomatidae,NA,NA,adult
+Corixidae,Arthropoda,Insecta,Hemiptera,Corixidae,NA,NA,adult
+Gerridae,Arthropoda,Insecta,Hemiptera,Gerridae,NA,NA,adult
+Hydrometridae,Arthropoda,Insecta,Hemiptera,Hydrometridae,NA,NA,adult
+Mesoveliidae,Arthropoda,Insecta,Hemiptera,Mesoveliidae,NA,NA,adult
+Vellidae,Arthropoda,Insecta,Hemiptera,Vellidae,NA,NA,adult
+Hemiptera Other,Arthropoda,Insecta,Hemiptera,NA,NA,NA,adult
+Aphididae Larvae,Arthropoda,Insecta,Hemiptera,Aphididae,NA,NA,adult
+Aphididae Adult,Arthropoda,Insecta,Hemiptera,Aphididae,NA,NA,adult
+Psyllidae,Arthropoda,Insecta,Hemiptera,Psyllidae,NA,NA,adult
+Hebridae,Arthropoda,Insecta,Hemiptera,Hebridae,NA,NA,adult
+Nepidae,Arthropoda,Insecta,Hemiptera,Nepidae,NA,NA,adult
+Homoptera,Arthropoda,Insecta,Hemiptera,NA,NA,NA,adult
+Leafhopper,Arthropoda,Insecta,Hemiptera,Cicadellidae,NA,NA,adult
+juvenile leafhopper,Arthropoda,Insecta,Hemiptera,NA,NA,NA,larvae
+Psyllidae Larvae,Arthropoda,Insecta,Hemiptera,Psyllidae,NA,NA,larvae
+Ant,Arthropoda,Insecta,Hymenoptera,Formicidae,NA,NA,adult
+Hymenoptera Other,Arthropoda,Insecta,Hymenoptera,NA,NA,NA,adult
+Lepidoptera Larvae,Arthropoda,Insecta,Lepidoptera,NA,NA,NA,larvae
+Lepidoptera adult,Arthropoda,Insecta,Lepidoptera,NA,NA,NA,larvae
+Lepidoptera pupae,Arthropoda,Insecta,Lepidoptera,NA,NA,NA,pupae
+Sisyridae Larvae,Arthropoda,Insecta,Neuroptera,Sisyridae,NA,NA,larvae
+Gomphidae larvae,Arthropoda,Insecta,Odanata,Gompidae,NA,NA,larvae
+Zygoptera Adult,Arthropoda,Insecta,Odanata,NA,NA,NA,adult
+Aeshnidae larvae,Arthropoda,Insecta,Odonata,Aeshnidae,NA,NA,larvae
+Coenagrionidae larvae,Arthropoda,Insecta,Odonata,Coenagrionidae,NA,NA,larvae
+Odonata larvae Other,Arthropoda,Insecta,Odonata,NA,NA,NA,larvae
+Libellulidae,Arthropoda,Insecta,Odonata,Libellulidae,NA,NA,larvae
+Orthoptera,Arthropoda,Insecta,Orthoptera,NA,NA,NA,adult
+Psocoptera Adult,Arthropoda,Insecta,Psocoptera,NA,NA,NA,adult
+Psocoptera Larvae,Arthropoda,Insecta,Psocoptera,NA,NA,NA,larvae
+Thrips,Arthropoda,Insecta,Thysanoptera,NA,NA,NA,adult
+Hydroptilidae Larvae Caddisfly,Arthropoda,Insecta,Trichoptera,Hydroptilidae,NA,NA,larvae
+Tricoptera larvae Other,Arthropoda,Insecta,Trichoptera,NA,NA,NA,larvae
+Hydroptilidae Adult Caddisfly,Arthropoda,Insecta,Trichoptera,Hydroptilidae,NA,NA,adult
+Polycentripodidae larvae,Arthropoda,Insecta,Trichoptera,Polycentripodidae,NA,NA,larvae
+Trichoptera Adult,Arthropoda,Insecta,Trichoptera,NA,NA,NA,adult
+Hydroptilidae Pupae Caddisfly,Arthropoda,Insecta,Trichoptera,Hydroptilidae,NA,NA,Pupae
+Insect larvae Other,Arthropoda,Insecta,NA,NA,NA,NA,larvae
+Insect Unid,Arthropoda,Insecta,NA,NA,NA,NA,adult
+Gammarus,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,spp.,adult
+Corophiid UNID,Arthropoda,Malacostraca,Amphipoda,Corophiidae,unknown,NA,adult
+Crangonyx,Arthropoda,Malacostraca,Amphipoda,Crangonycitidae,Crangonyx,NA,adult
+Hyalella,Arthropoda,Malacostraca,Amphipoda,Hyalellidae,Hyalella,NA,adult
+Juvenile Amphipod,Arthropoda,Malacostraca,Amphipoda,NA,NA,NA,juvenile
+Amphipod UNID,Arthropoda,Malacostraca,Amphipoda,NA,NA,NA,adult
+Grandidierella,Arthropoda,Malacostraca,Amphipoda,Aoridae,Grandidierella,spp.,adult
+Melita,Arthropoda,Malacostraca,Amphipoda,Hadzioidea,Melita,NA,adult
+Ampithoe,Arthropoda,Malacostraca,Amphipoda,Ampithoidae,Ampithoe,NA,adult
+Corophiid Juvenile,Arthropoda,Malacostraca,Amphipoda,Corophiidae,NA,NA,juvenile
+Americorophium spinicorne,Arthropoda,Malacostraca,Amphipoda,Corophiidae,Americorophium,spinicorne,adult
+Americorophium stimpsoni,Arthropoda,Malacostraca,Amphipoda,Corophiidae,Americorophium,stimpsoni,adult
+Corophium alienense,Arthropoda,Malacostraca,Amphipoda,Corophiidae,Corophium,alienense,adult
+Gammarid juvenile,Arthropoda,Malacostraca,Amphipoda,Gammaridae,NA,NA,juvenile
+Eogammarus,Arthropoda,Malacostraca,Amphipoda,Anisogammaridae,Eogammarus,NA,adult
+Talitridae,Arthropoda,malacostraca,Amphipoda,Talitridae,NA,NA,adult
+Cumaceans,Arthropoda,Malacostraca,Cumacea,NA,NA,NA,adult
+crab zoea,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,larvae
+Crab megalope,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,larvae
+Exopalaemon,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Exopalaemon,modestus,adult
+Shrimp Other,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,adult
+Crayfish,Arthropoda,Malacostraca,Decapoda,Astacidae,Pacifastacus,NA,adult
+Palaemonetes,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Palaemonectes,NA,adult
+Juvenile Shrimp,Arthropoda,Malacostraca,Decapoda,NA,NA,NA,juvenile
+Crangon,Arthropoda,Malacostraca,Decapoda,Crangonidae,Crangon,NA,adult
+Exopalemon,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Exopalemon,NA,adult
+Harris Mud Crab,Arthropoda,Malacostraca,Decapoda,NA,Rhithropanopeus,harrisii,adult
+Mississippi Grass Shrimp,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Palaemontetes,NA,adult
+Palaemon,Arthropoda,Malacostraca,Decapoda,Palaemonidae,Palaemon,NA,adult
+Isopods,Arthropoda,Malacostraca,Isopoda,NA,NA,NA,adult
+Gnorimosphaeroma,Arthropoda,Malacostraca,Isopoda,Sphaeromatidae,Gnorimosphaeroma,insulare,adult
+Asellidae,Arthropoda,Malacostraca,Isopoda,Asellidae,NA,NA,adult
+Ligidium,Arthropoda,Malacostraca,Isopoda,Ligiidae,Ligidium,lates,adult
+Caecidotea,Arthropoda,Malacostraca,Isopoda,Asellidae,Caecidotea,NA,adult
+Munnidae,Arthropoda,Malacostraca,Isopoda,Munnidae,NA,NA,adult
+Isopod other,Arthropoda,Malacostraca,Isopoda,NA,NA,NA,adult
+Juvenile Isopod,Arthropoda,Malacostraca,Isopoda,NA,NA,NA,juvenile
+Acanthomysis aspera,Arthropoda,Malacostraca,Mysidacea,NA,Acanthomysis,aspera,adult
+Acanthomysis bowmani,Arthropoda,Malacostraca,Mysidacea,NA,Acanthomysis,bowmani,adult
+Acanthomysis hwanhaiensis,Arthropoda,Malacostraca,Mysidacea,NA,Acanthomysis,hwanhaiensis,adult
+Acanthomysis macropsis,Arthropoda,Malacostraca,Mysidacea,NA,Acanthomysis,macropsis,adult
+Deltamysis homquistae,Arthropoda,Malacostraca,Mysidacea,NA,Deltamysis,homquistae,adult
+Neomysis kadiakensis,Arthropoda,Malacostraca,Mysidacea,NA,Neomysis,kadiakensis,adult
+Neomysis mercedis,Arthropoda,Malacostraca,Mysidacea,NA,Neomysis,mercedis,adult
+Mysid Other,Arthropoda,Malacostraca,Mysidacea,NA,NA,NA,adult
+Juvenile Mysid,Arthropoda,Malacostraca,Mysidacea,Mysidae,NA,NA,juvenile
+Hyperacanthomysis longirostris,Arthropoda,Malacostraca,Mysidacea,Mysidae,Hyperacanthomysis,longirostris,adult
+Tanaid,Arthropoda,Malacostraca,Tanaidacea,NA,NA,NA,adult
+Malcostraca Other,Arthropoda,Malacostraca,NA,NA,NA,NA,adult
+Ostracods,Arthropoda,Ostracoda,NA,NA,NA,NA,adult
+Magnificent Bryozoan,Bryozoa,Phylactolaemata,Plumatellida,Pectinatellidae,Pectinatella,Pectinatella magnifica,adult
+Fish,Chordata,Actinopterygii,NA,NA,NA,NA,larvae
+American Shad,Chordata,Actinopterygii,NA,Clupeidae,Alosa,sapidissima,adult
+Arrow Goby,Chordata,Actinopterygii,NA,Gobiidae,Clevelandia,ios,adult
+Barred Surfperch,Chordata,Actinopterygii,NA,Embiotocidae,Amphistichus,argenteus,adult
+Bat Ray,Chordata,Actinopterygii,NA,Myliobatidae,Myliobatis,californica,adult
+Bay Goby,Chordata,Actinopterygii,NA,Gobiidae,Lepidogobius,lepidus,adult
+Bay Pipefish,Chordata,Actinopterygii,NA,Syngnathidae,Syngnathus,leptorhynchus,adult
+Big Skate,Chordata,Actinopterygii,NA,Rajidae,Raja,binoculata,adult
+Bigscale Logperch,Chordata,Actinopterygii,NA,Percidae,Percidae,macrolepida,adult
+Black Bass (unknown species),Chordata,Actinopterygii,NA,Centrarchidae,NA,NA,adult
+Black Bullhead,Chordata,Actinopterygii,NA,Ictaluridae,Ameiurus,melas,adult
+Black Crappie,Chordata,Actinopterygii,NA,Centrarchidae,Pomoxis,nigromaculatus,adult
+Blackfordia,Chordata,Actinopterygii,NA,Blackfordiidae,Blackfordia,unknown,adult
+Blue Catfish,Chordata,Actinopterygii,NA,Ictaluridae," 	Ictalurus",furcatus,adult
+Bluefin Killifish,Chordata,Actinopterygii,NA,Fundulidae,Lucania,goodei,adult
+Bluegill,Chordata,Actinopterygii,NA,Centrarchidae,Lepomis,macrochirus,adult
+Brown Bullhead,Chordata,Actinopterygii,NA,Ictaluridae,Ameiurus,nebulosus,adult
+California Roach,Chordata,Actinopterygii,NA,Cyprinidae,"	Hesperoleucus",symmetricus,adult
+Chameleon Goby,Chordata,Actinopterygii,NA,Gobiidae,Tridentiger,trigonocephalus,adult
+Channel Catfish,Chordata,Actinopterygii,NA,Ictaluridae,Ictalurus,punctatus,adult
+Chinook Salmon,Chordata,Actinopterygii,NA,Salmonidae,Oncorhynchus,tshawytscha,adult
+Chrysaora,Chordata,Actinopterygii,NA,Pelagiidae,Chrysaora,unkown,adult
+Comb Jelly,Chordata,Actinopterygii,NA,Pleurobrachiidae,Pleurobrachia,NA,adult
+Common Carp,Chordata,Actinopterygii,NA,Cyprinidae,Cyprinus,carpio,adult
+Crappie spp.,Chordata,Actinopterygii,NA,Centrarchidae,Pomoxis,unidentified,adult
+Cyprinid spp.,Chordata,Actinopterygii,NA,Cyprinidae,unknown,unidentified,adult
+Delta Smelt,Chordata,Actinopterygii,NA,Osmeridae,Hypomesus,transpacificus,adult
+Fathead Minnow,Chordata,Actinopterygii,NA,Cyprinidae,Pimephales,promelas,adult
+Golden Shiner,Chordata,Actinopterygii,NA,Cyprinidae,Notemigonus,crysoleucas,adult
+Goldfish,Chordata,Actinopterygii,NA,Cyprinidae,Carassius,auratus,adult
+Green Sturgeon,Chordata,Actinopterygii,NA,Acipenseridae,Acipenser,medirostris,adult
+Green Sunfish,Chordata,Actinopterygii,NA,Centrarchidae,Lepomis,cyanellus,adult
+Hardhead,Chordata,Actinopterygii,NA,Cyprinidae,Mylopharodon,conocephalus,adult
+Hitch,Chordata,Actinopterygii,NA,Cyprinidae,Lavinia,exilicauda,adult
+Jacksmelt,Chordata,Actinopterygii,NA,Atherinopsidae,Atherinopsis,californiensis,adult
+Lamprey spp.,Chordata,Actinopterygii,NA,Petromyzontidae,Lampetra,Unidentified,adult
+Largemouth Bass,Chordata,Actinopterygii,NA,Centrarchidae,Micropterus,salmoides,adult
+Longfin Smelt,Chordata,Actinopterygii,NA,Osmeridae,Spirinchus,thaleichthys,adult
+Mississippi Silverside,Chordata,Actinopterygii,NA,Atherinidae,Menidia,audens,adult
+Mosquitofish,Chordata,Actinopterygii,NA,Poeciliidae,Gambusia,affinis,adult
+Northern Anchovy,Chordata,Actinopterygii,NA,Engraulidae,Engraulis,Mordax,adult
+Osmeridae spp.,Chordata,Actinopterygii,NA,Osmeridae,unknown,unknown,adult
+Pacific Herring,Chordata,Actinopterygii,NA,Clupeidae,Clupea,pallasi,adult
+Pacific Lamprey,Chordata,Actinopterygii,NA,Petromyzontidae,Lampetra,tridentata,adult
+Pacific Staghorn Sculpin,Chordata,Actinopterygii,NA,Cottidae,Leptocottus,armatus,adult
+Plainfin Midshipman,Chordata,Actinopterygii,NA,Batrachoididae,Porichthys,notatus,adult
+Prickly Sculpin,Chordata,Actinopterygii,NA,Cottidae,Cottus,asper,adult
+Pumpkinseed,Chordata,Actinopterygii,NA,Centrarchidae,Lepomis,gibbosus,adult
+Rainwater Killifish,Chordata,Actinopterygii,NA,Fundulidae,Lucania,parva,adult
+Red Shiner,Chordata,Actinopterygii,NA,Cyprinidae,Cyprinella,lutrensis,adult
+Redear,Chordata,Actinopterygii,NA,Centrarchidae,Lepomis,microlophus,adult
+Redeye Bass,Chordata,Actinopterygii,NA,Centrarchidae,Micropterus,coosae,adult
+Riffle Sculpin,Chordata,Actinopterygii,NA,Cottidae,Cottus,gulosus,adult
+River Lamprey,Chordata,Actinopterygii,NA,Petromyzontidae,Lampetra,RL,adult
+Sacramento Blackfish,Chordata,Actinopterygii,NA,Cyprinidae,Orthodon,microlepidotus,adult
+Sacramento Perch,Chordata,Actinopterygii,NA,Centrarchidae,Archoplites,interruptus,adult
+Sacramento Pikeminnow,Chordata,Actinopterygii,NA,Cyprinidae,Ptychocheilus,grandis,adult
+Sacramento Sucker,Chordata,Actinopterygii,NA,Catostomidae,Catostomus,occidentalis,adult
+Shimofuri Goby,Chordata,Actinopterygii,NA,Gobiidae,Tridentiger,bifasciatus,adult
+Shokihaze Goby,Chordata,Actinopterygii,NA,Gobiidae,Tridentiger,NA,adult
+Smallmouth Bass,Chordata,Actinopterygii,NA,Centrarchidae,Micropterus,dolomieui,adult
+Speckled Dace,Chordata,Actinopterygii,NA,Cyprinidae,Rhinichthys,NA,adult
+Splittail,Chordata,Actinopterygii,NA,Cyprinidae,Pogonichthys,macrolepidotus,adult
+Spotted Bass,Chordata,Actinopterygii,NA,Centrarchidae,Micropterus,punctulatus,adult
+Starry Flounder,Chordata,Actinopterygii,NA,Pleuronectidae,Platichthys,stellatus,adult
+Steelhead,Chordata,Actinopterygii,NA,Salmonidae,Oncorhynchus,mykiss,adult
+Striped Bass,Chordata,Actinopterygii,NA,Percichthyidae,Morone,saxatilis,adult
+Sunfish (unknown species),Chordata,Actinopterygii,NA,Centrarchidae,NA,NA,adult
+Surf Smelt,Chordata,Actinopterygii,NA,Osmeridae,Hypomesus,pretiosus,adult
+Threadfin Shad,Chordata,Actinopterygii,NA,Clupeidae,Dorosoma,petenense,adult
+Threespine Stickleback,Chordata,Actinopterygii,NA,Gasterosteidae,Gasterosteus,aculeatus,adult
+Topsmelt,Chordata,Actinopterygii,NA,Atherinopsidae,Atherinopsidae,affinis,adult
+Tridentiger Spp.,Chordata,Actinopterygii,NA,Gobiidae,Tridentiger,NA,adult
+Tule Perch,Chordata,Actinopterygii,NA,Embiotocidae,Hysterocarpus,traski,adult
+Unidentifiable Fish,Chordata,Actinopterygii,NA,NA,NA,NA,adult
+Wakasagi,Chordata,Actinopterygii,NA,Osmeridae,Hypomesus,traski,adult
+Warmouth,Chordata,Actinopterygii,NA,Centrarchidae,Lepomis,gluosus,adult
+White Catfish,Chordata,Actinopterygii,NA,Ictaluridae,Ameiurus,catus,adult
+White Crappie,Chordata,Actinopterygii,NA,Centrarchidae,Pomoxis,annularis,adult
+White Croaker,Chordata,Actinopterygii,NA,Sciaenidae,Sciaenidae,lineatus,adult
+White Sturgeon,Chordata,Actinopterygii,NA,Acipenseridae,Acipenser,transmontanus,adult
+Yellow Bullhead,Chordata,Actinopterygii,NA,Ictaluridae,Ameiurus,natalis,adult
+Yellowfin Goby,Chordata,Actinopterygii,NA,Gobiidae,Acanthogobius,flavimanus,adult
+Hydra,Cnidaria,Hydrozoa,Hydrida,Hydridae,Hydra,NA,adult
+Cnidaria Other,Cnidaria,NA,NA,NA,NA,NA,adult
+Aequorea spp.,Cnidaria,Hydrozoa,NA,Aequoreidae,Aequorea,unknown,adult
+Jellyfish Unid,Cnidaria,Hydrozoa,NA,NA,NA,NA,adult
+Maeotias,Cnidaria,Hydrozoa,NA,Olindiidae,Maeotias,NA,adult
+Moon Jellyfish,Cnidaria,Hydrozoa,NA,Ulmaridae,Aurelia,NA,adult
+Potamocorbula,Mollusca,Bivalvia,Myoida,Corbulidae,Potamocorbula,amurensis,adult
+Juvenile Clam,Mollusca,Bivalvia,Unknown,Unknown,Unknown,Unknown,juvenile
+Corbicula,Mollusca,Bivalvia,Veneroida,Corbiculidae,Corbicula,fluminea,adult
+Clam Other,Mollusca,Bivalvia,NA,NA,NA,NA,adult
+Fluminicola,Mollusca,Gastopoda,NA,Lythoglyphidae,Fluminicola,NA,adult
+Fossaria,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,Fossaria,NA,adult
+Lymnaea,Mollusca,Gastropoda,Basommatophora,Lymnaeidae,Lymnaea,NA,adult
+limpet,Mollusca,Gastropoda,Limnophila,Ancylus,Ferrissia,californica,adult
+Hydrobiidae,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,NA,NA,adult
+Nudibranch,Mollusca,Gastropoda,Nudibranchia,NA,NA,NA,adult
+Gyraulus,Mollusca,Gastropoda,NA,Planorbidae,Gyraulus,NA,adult
+Melanoides tuberculata,Mollusca,Gastropoda,NA,Thiaridae,Melanoides,tuberculata,adult
+Snail Other,Mollusca,Gastropoda,NA,NA,NA,NA,adult
+Physa,Mollusca,Gastropoda,NA,Physidae,Physa,NA,adult
+Planorbella,Mollusca,Gastropoda,NA,Planorbidae,Planorbella,NA,adult
+Planorbidae UNID,Mollusca,Gastropoda,NA,Planorbidae,NA,NA,adult
+Slug,Mollusca,Gastropoda,NA,NA,NA,NA,adult
+Nematode,Nematoda,NA,NA,NA,NA,NA,adult
+Prostoma,Nemertea,Enopla,Monostilifera,Tetrastemmatidae,Prostoma,NA,adult
+Nemertea,Nemertea,NA,NA,NA,NA,NA,adult
+Planaria,Platyhelminthes,Rhabditophora,Tricladida,Dugesiidae,Girardia,tigrina,adult
+Platyias,Rotifera,Eurotatoria,Ploima,Brachionidae,Platyias,NA,adult
+Kellicottia,Rotifera,Eurotatoria,Ploima,Brachionidae,Kellicottia,NA,adult
+Asplanchna,Rotifera,Monogononta,Ploima,Asplanchnidae,Asplanchna,NA,adult
+Synchaeta bicornis,Rotifera,Monogononta,Ploima,Synchaetidae,Synchaeta,bicornis,adult
+Keratella,Rotifera,Monogononta,Ploima,Brachionidae,Keratella,NA,adult
+Polyarthra,Rotifera,Monogononta,Ploima,Synchaetidae,Polyarthra,NA,adult
+Synchaeta,Rotifera,Monogononta,Ploima,Synchaetidae,Synchaeta,NA,adult
+Trichocerca,Rotifera,Monogononta,Ploima,Trichocercidae,Trichocerca,NA,adult
+Branchionus,Rotifera,Monogononta,Ploima,Brachionidae,Branchionus,NA,adult
+Rotifer Other,Rotifera,NA,NA,NA,NA,NA,adult
+Tardigrade,Tardigrades,NA,NA,NA,NA,NA,adult
+Animal material UNID,NA,NA,NA,NA,NA,NA,NA
+Invertebrate UNID,NA,NA,NA,NA,NA,NA,NA
